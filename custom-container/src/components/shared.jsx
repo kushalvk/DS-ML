@@ -1,4 +1,3 @@
-// ── Shared constants & reusable components ──────────────────────────────────
 
 export const LEVEL_CONFIG = {
   Critical: {
@@ -41,7 +40,6 @@ export const LEVEL_CONFIG = {
 
 export const LEVEL_ORDER = ["Critical", "High", "Medium", "Low"];
 
-// ── ScoreBadge ───────────────────────────────────────────────────────────────
 export function ScoreBadge({ level, score, size = "sm" }) {
   const cfg = LEVEL_CONFIG[level] || LEVEL_CONFIG.Low;
   const sizeClass = size === "lg"
@@ -55,7 +53,6 @@ export function ScoreBadge({ level, score, size = "sm" }) {
   );
 }
 
-// ── StatCard ─────────────────────────────────────────────────────────────────
 export function StatCard({ label, value, color, sub, icon }) {
   return (
     <div className="rounded-xl border border-slate-800 bg-slate-900 p-4 flex flex-col gap-1 hover:border-slate-700 transition-colors">
@@ -69,7 +66,6 @@ export function StatCard({ label, value, color, sub, icon }) {
   );
 }
 
-// ── ScoreBar ─────────────────────────────────────────────────────────────────
 export function ScoreBar({ score, level }) {
   const cfg = LEVEL_CONFIG[level] || LEVEL_CONFIG.Low;
   return (
@@ -85,7 +81,6 @@ export function ScoreBar({ score, level }) {
   );
 }
 
-// ── Custom recharts tooltip ───────────────────────────────────────────────────
 export const CustomTooltip = ({ active, payload, label }) => {
   if (active && payload?.length) {
     return (
@@ -102,7 +97,6 @@ export const CustomTooltip = ({ active, payload, label }) => {
   return null;
 };
 
-// ── WeightDeltaBadge ─────────────────────────────────────────────────────────
 export function WeightDelta({ dw, mw }) {
   if (!dw || dw === 0) return <span className="text-slate-500 text-xs">—</span>;
   const pct = ((mw - dw) / dw * 100).toFixed(1);
@@ -114,7 +108,6 @@ export function WeightDelta({ dw, mw }) {
   );
 }
 
-// ── parse uploaded CSV ────────────────────────────────────────────────────────
 export function parseCSV(text) {
   const lines = text.split("\n").filter(Boolean);
   if (lines.length < 2) throw new Error("CSV must have at least a header row and one data row.");
@@ -126,18 +119,20 @@ export function parseCSV(text) {
     headers.forEach((h, i) => (obj[h] = vals[i] || ""));
 
     return {
-      id:    obj["Container_ID"]  || obj["id"]    || `ROW_${idx + 1}`,
-      score: parseFloat(obj["Risk_Score"]   || obj["score"] || 0),
-      level: obj["Risk_Level"]    || obj["level"] || "Low",
-      origin:obj["Origin_Country"]|| obj["origin"]|| "N/A",
-      value: parseFloat(obj["Declared_Value"]  || obj["value"]|| 0),
-      dw:    parseFloat(obj["Declared_Weight"] || obj["dw"]  || 0),
-      mw:    parseFloat(obj["Measured_Weight"] || obj["mw"]  || 0),
-      dwell: parseFloat(obj["Dwell_Time_Hours"]|| obj["dwell"]||0),
-      hs:    obj["HS_Code"]       || obj["hs"]    || "N/A",
-      line:  obj["Shipping_Line"] || obj["line"]  || "N/A",
-      expl:  obj["Explanation_Summary"] || obj["expl"] || "No explanation available.",
-      date:  obj["date"] || obj["Declaration_Date"] || "",
+      id:        obj["Container_ID"]  || obj["id"]        || `ROW_${idx + 1}`,
+      score:     parseFloat(obj["Risk_Score"]   || obj["score"] || 0),
+      level:     obj["Risk_Level"]    || obj["level"]      || "Low",
+      origin:    obj["Origin_Country"]|| obj["origin"]     || "N/A",
+      value:     parseFloat(obj["Declared_Value"]  || obj["value"] || 0),
+      dw:        parseFloat(obj["Declared_Weight"] || obj["dw"]   || 0),
+      mw:        parseFloat(obj["Measured_Weight"] || obj["mw"]   || 0),
+      dwell:     parseFloat(obj["Dwell_Time_Hours"]|| obj["dwell"]|| 0),
+      hs:        obj["HS_Code"]        || obj["hs"]        || "N/A",
+      line:      obj["Shipping_Line"]  || obj["line"]      || "N/A",
+      expl:      obj["Explanation_Summary"] || obj["expl"] || "No explanation available.",
+      date:      obj["date"] || obj["Declaration_Date"]   || "",
+      dest_port: obj["Destination_Port"] || obj["dest_port"] || "N/A",
+      actual:    obj["Actual_Status"]    || obj["actual"]    || "",
     };
   });
 }

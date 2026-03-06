@@ -1,15 +1,8 @@
 {
-  "total": 500,
-  "critical": 109,
-  "high": 0,
-  "medium": 0,
-  "low": 391,
-  "avg_score": 22.9,
-  "top_origins": {
-    "LY": 15,
-    "SD": 12,
-    "MM": 11,
-    "KP": 11,
-    "SY": 10
-  }
+  "total": 8481,
+  "critical": 73,
+  "high": 108,
+  "medium": 1656,
+  "low": 6644,
+  "avg_score": 13.2
 }

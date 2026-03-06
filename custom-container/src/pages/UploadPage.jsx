@@ -7,7 +7,7 @@ const REQUIRED_COLS = ["Container_ID", "Risk_Score", "Risk_Level"];
 const OPTIONAL_COLS = [
   "Explanation_Summary", "Origin_Country", "Declared_Value",
   "Declared_Weight", "Measured_Weight", "Dwell_Time_Hours",
-  "Shipping_Line", "HS_Code",
+  "Shipping_Line", "HS_Code", "Destination_Port", "Actual_Status",
 ];
 
 export default function UploadPage() {
@@ -168,7 +168,7 @@ export default function UploadPage() {
                   or <span className="text-blue-400 underline underline-offset-2">browse files</span>
                 </p>
               </div>
-              <p className="text-slate-600 text-xs">Accepts .csv files · predictions.csv from ml_pipeline.py</p>
+              <p className="text-slate-600 text-xs">Accepts .csv files · predictions.csv from ml_pipeline_v2.py</p>
             </div>
           )}
         </div>
@@ -264,7 +264,7 @@ export default function UploadPage() {
             </div>
           </div>
           <p className="text-slate-600 text-xs mt-3">
-            Run <code className="bg-slate-800 px-1.5 py-0.5 rounded text-slate-400">python ml_pipeline.py</code> to generate a compatible predictions.csv from your shipment data.
+            Run <code className="bg-slate-800 px-1.5 py-0.5 rounded text-slate-400">python ml_pipeline_v2.py Historical_Data.csv Real-Time_Data.csv</code>
           </p>
         </div>
       </div>

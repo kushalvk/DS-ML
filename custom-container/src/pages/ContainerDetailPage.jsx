@@ -155,12 +155,20 @@ export default function ContainerDetailPage() {
           {/* Shipment details */}
           <div className="bg-slate-900 border border-slate-800 rounded-2xl p-5">
             <p className="text-slate-300 font-semibold text-sm mb-2">Shipment Details</p>
-            <InfoRow label="Origin Country"   value={container.origin} />
-            <InfoRow label="Shipping Line"    value={container.line || "N/A"} />
-            <InfoRow label="HS Code"          value={container.hs || "N/A"} />
-            <InfoRow label="Declared Value"   value={`$${(container.value || 0).toLocaleString()}`} />
-            <InfoRow label="Value per kg"     value={`$${valuePkg.toFixed(2)}/kg`} highlight={valuePkg > 500} />
-            <InfoRow label="Dwell Time"       value={`${container.dwell} hours`} highlight={container.dwell > 72 || container.dwell < 2} />
+            <InfoRow label="Origin Country"    value={container.origin} />
+            <InfoRow label="Destination Port"  value={container.dest_port || "N/A"} />
+            <InfoRow label="Shipping Line"     value={container.line || "N/A"} />
+            <InfoRow label="HS Code"           value={container.hs || "N/A"} />
+            <InfoRow label="Declared Value"    value={`$${(container.value || 0).toLocaleString()}`} />
+            <InfoRow label="Value per kg"      value={`$${valuePkg.toFixed(2)}/kg`} highlight={valuePkg > 500} />
+            <InfoRow label="Dwell Time"        value={`${container.dwell} hours`} highlight={container.dwell > 72 || container.dwell < 2} />
+            {container.actual && (
+              <InfoRow
+                label="Actual Status (Ground Truth)"
+                value={container.actual}
+                highlight={container.actual === "Critical"}
+              />
+            )}
           </div>
 
           {/* Weight analysis */}

@@ -249,6 +249,7 @@ export default function DashboardPage() {
                   <th className="px-4 py-3 text-left font-semibold">Container ID</th>
                   <th className="px-4 py-3 text-left font-semibold">Risk</th>
                   <th className="px-4 py-3 text-left font-semibold">Origin</th>
+                  <th className="px-4 py-3 text-left font-semibold hidden md:table-cell">Dest Port</th>
                   <th className="px-4 py-3 text-left font-semibold hidden md:table-cell">Value</th>
                   <th className="px-4 py-3 text-left font-semibold hidden lg:table-cell">Weight Δ</th>
                   <th className="px-4 py-3 text-left font-semibold hidden lg:table-cell">Dwell (hrs)</th>
@@ -268,6 +269,11 @@ export default function DashboardPage() {
                     <td className="px-4 py-3">
                       <span className="px-2 py-0.5 bg-slate-800 rounded text-slate-300 text-xs font-mono font-semibold border border-slate-700">
                         {row.origin}
+                      </span>
+                    </td>
+                    <td className="px-4 py-3 hidden md:table-cell">
+                      <span className="px-2 py-0.5 bg-slate-800 rounded text-slate-400 text-xs font-mono">
+                        {row.dest_port || "N/A"}
                       </span>
                     </td>
                     <td className="px-4 py-3 text-slate-400 hidden md:table-cell text-xs">
