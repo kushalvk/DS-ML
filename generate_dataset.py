@@ -9,7 +9,7 @@ HIGH_RISK_COUNTRIES = ['KP', 'IR', 'SY', 'LY', 'YE', 'VE', 'MM']
 MED_RISK_COUNTRIES = ['NG', 'PK', 'AF', 'SD', 'IQ', 'SO']
 LOW_RISK_COUNTRIES = ['US', 'DE', 'JP', 'GB', 'FR', 'CA', 'AU', 'SG', 'NL', 'CH']
 ALL_COUNTRIES = HIGH_RISK_COUNTRIES + MED_RISK_COUNTRIES + LOW_RISK_COUNTRIES
-
+PORTS = ['NYC', 'LAX', 'RTM', 'SGP', 'DXB', 'HKG', 'SHA', 'MUM', 'DEL', 'HAM']
 SHIPPING_LINES = ['MAERSK', 'MSC', 'CMA CGM', 'COSCO', 'EVERGREEN', 'HAPAG', 'ONE', 'YML', 'HMM', 'PIL']
 HS_CODES = ['8471', '8517', '2710', '7108', '6110', '8703', '3004', '9013', '2933', '8542']
 
@@ -45,9 +45,10 @@ def make_container():
     
     return {
         'Container_ID': f'CONT{np.random.randint(100000, 999999)}',
-        'Declaration_Date': pd.Timestamp('2024-01-01') + pd.Timedelta(days=np.random.randint(0, 365)),
+        'Declaration_Date (YYYY-MM-DD)': pd.Timestamp('2024-01-01') + pd.Timedelta(days=np.random.randint(0, 365)),
         'Declaration_Time': f'{hour:02d}:{np.random.randint(0,59):02d}',
         'Origin_Country': origin,
+        'Destination_Port': np.random.choice(PORTS),
         'Destination_Country': destination,
         'HS_Code': np.random.choice(HS_CODES),
         'Importer_ID': f'IMP{np.random.randint(1000, 9999)}',
@@ -57,14 +58,14 @@ def make_container():
         'Measured_Weight': round(measured_weight, 2),
         'Dwell_Time_Hours': round(dwell_time, 2),
         'Shipping_Line': np.random.choice(SHIPPING_LINES),
-        'Trade_Regime': np.random.choice(['IMPORT', 'TRANSIT', 'RE-EXPORT', 'TEMP_IMPORT'], p=[0.6, 0.2, 0.15, 0.05]),
+        'Trade_Regime (Import / Export / Transit)': np.random.choice(['IMPORT', 'TRANSIT', 'RE-EXPORT', 'TEMP_IMPORT'], p=[0.6, 0.2, 0.15, 0.05]),
         'Clearance_Status': clearance_status,
         'is_risky': int(is_risky)
     }
 
 rows = [make_container() for _ in range(n)]
 df = pd.DataFrame(rows)
-df.to_csv('/home/claude/sample_shipments.csv', index=False)
+df.to_csv('./sample_shipments.csv', index=False)
 print(f"Generated {len(df)} records")
 print(df['Clearance_Status'].value_counts())
 print(df['is_risky'].value_counts())

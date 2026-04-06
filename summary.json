@@ -1,8 +1,8 @@
 {
-  "total": 8481,
-  "critical": 73,
-  "high": 108,
-  "medium": 1656,
-  "low": 6644,
-  "avg_score": 13.2
+  "total": 500,
+  "critical": 101,
+  "high": 21,
+  "medium": 40,
+  "low": 338,
+  "avg_score": 28.0
 }
