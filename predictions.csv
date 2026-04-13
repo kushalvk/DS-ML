@@ -1,501 +1,501 @@
 Container_ID,Risk_Score,Risk_Level,Explanation_Summary,Origin_Country,Destination_Port,Destination_Country,HS_Code,Shipping_Line,Declared_Value,Declared_Weight,Measured_Weight,Dwell_Time_Hours,Declaration_Date,Actual_Status
-CONT207044,99.6,Critical,Risk indicators: measured weight is 31% higher than declared; very high dwell time (168 hrs); declared during off-hours.,PK,SHA,CA,2933,HAPAG,750550.73,7953.34,10424.54,168.4,2024-12-07,Flagged
-CONT128328,99.5,Critical,Risk indicators: measured weight is 29% higher than declared; very high dwell time (199 hrs); declared during off-hours.,VE,RTM,CA,9013,EVERGREEN,497452.38,8632.68,11137.62,199.36,2024-09-28,Under Review
-CONT594829,99.2,Critical,"Risk indicators: measured weight is 91% lower than declared; unusually high value-per-kg ($1,305/kg); very high dwell time (194 hrs).",SY,HAM,AU,8542,MAERSK,1438237.1,1101.71,100.0,194.0,2024-02-03,Seized
-CONT435441,98.9,Critical,Risk indicators: measured weight is 61% higher than declared; very high dwell time (124 hrs); declared during off-hours.,SO,NYC,DE,9013,HMM,271915.22,6400.17,10286.09,123.73,2024-10-05,Under Review
-CONT566882,98.9,Critical,Risk indicators: measured weight is 43% higher than declared; very high dwell time (138 hrs); declared during off-hours.,IQ,RTM,AU,6110,EVERGREEN,1457732.25,6914.11,9885.63,138.14,2024-03-16,Seized
-CONT484546,98.2,Critical,Risk indicators: measured weight is 22% lower than declared; very high dwell time (158 hrs); declared during off-hours.,VE,DXB,US,8542,CMA CGM,1073894.81,12530.59,9828.64,158.47,2024-05-11,Under Review
-CONT350703,97.4,Critical,Risk indicators: measured weight is 78% lower than declared; very high dwell time (173 hrs); declared during off-hours.,VE,SGP,US,8703,HAPAG,236763.56,4483.22,968.36,173.03,2024-05-18,Flagged
-CONT305463,97.3,Critical,Risk indicators: measured weight is 148% higher than declared; unusually high value-per-kg ($560/kg); declared during off-hours.,VE,HKG,JP,8542,HMM,1761392.31,3148.06,7793.3,0.57,2024-08-24,Flagged
-CONT448152,97.3,Critical,"Risk indicators: measured weight is 243% higher than declared; unusually high value-per-kg ($3,014/kg); declared during off-hours.",AF,LAX,US,8471,EVERGREEN,1871818.56,621.14,2128.15,1.09,2024-10-27,Seized
-CONT329192,97.1,Critical,Risk indicators: very high dwell time (144 hrs); declared during off-hours; weekend declaration.,YE,HAM,GB,8703,PIL,1643141.22,13707.1,14652.03,144.43,2024-03-17,Seized
-CONT771314,96.9,Critical,Risk indicators: measured weight is 32% higher than declared; very high dwell time (173 hrs); declared during off-hours.,LY,DXB,GB,8471,YML,403.04,10837.92,14286.2,172.67,2024-10-17,Seized
-CONT479989,96.4,Critical,Risk indicators: measured weight is 31% higher than declared; very high dwell time (169 hrs); declared during off-hours.,KP,HAM,JP,2933,COSCO,1421480.56,9727.95,12762.69,168.71,2024-10-10,Under Review
-CONT940530,96.2,Critical,Risk indicators: measured weight is 29% higher than declared; very high dwell time (188 hrs); declared during off-hours.,IQ,DXB,GB,2710,COSCO,289.97,7826.16,10079.44,187.89,2024-05-23,Flagged
-CONT962839,96.1,Critical,Risk indicators: measured weight is 56% higher than declared; very high dwell time (192 hrs); declared during off-hours.,IQ,NYC,CH,2710,ONE,412.68,7151.22,11152.16,191.5,2024-11-21,Flagged
-CONT865359,95.9,Critical,Risk indicators: measured weight is 51% higher than declared; very high dwell time (199 hrs); declared during off-hours.,KP,DXB,SG,2933,MSC,889341.7,5301.62,8005.02,198.53,2024-04-03,Under Review
-CONT201894,95.9,Critical,Risk indicators: measured weight is 34% higher than declared; very high dwell time (131 hrs); declared during off-hours.,SO,LAX,CH,8471,ONE,888168.75,13153.5,17628.23,130.55,2024-10-04,Flagged
-CONT671621,95.9,Critical,Risk indicators: measured weight is 111% higher than declared; unusually high value-per-kg ($554/kg); very high dwell time (137 hrs).,VE,HKG,CA,9013,EVERGREEN,1713524.48,3092.93,6516.28,137.13,2024-12-30,Flagged
-CONT935488,95.9,Critical,Risk indicators: measured weight is 46% higher than declared; declared during off-hours; weekend declaration.,SD,HAM,CH,7108,HAPAG,145.81,4564.85,6646.79,0.18,2024-12-29,Flagged
-CONT832878,95.9,Critical,Risk indicators: measured weight is 224% higher than declared; declared during off-hours; weekend declaration.,NG,HAM,CA,8703,YML,1233.77,1878.08,6076.19,0.15,2024-10-06,Seized
-CONT757917,95.4,Critical,Risk indicators: measured weight is 43% higher than declared; very high dwell time (192 hrs); declared during off-hours.,LY,LAX,JP,8517,HMM,1581.76,10655.19,15192.18,191.76,2024-04-08,Under Review
-CONT103114,95.2,Critical,Risk indicators: measured weight is 44% higher than declared; declared during off-hours; weekend declaration.,SO,SGP,DE,8703,ONE,1559142.96,6033.44,8685.15,0.3,2024-04-14,Seized
-CONT933510,95.1,Critical,Risk indicators: measured weight is 96% lower than declared; unusually high value-per-kg ($689/kg); above-average dwell time (90 hrs).,YE,NYC,NL,8542,CMA CGM,1893170.83,2747.63,100.0,90.28,2024-05-04,Flagged
-CONT620551,95.0,Critical,Risk indicators: measured weight is 32% lower than declared; unusually high value-per-kg ($434/kg); declared during off-hours.,SD,MUM,US,2710,CMA CGM,1654137.35,3815.06,2591.65,0.46,2024-08-10,Seized
-CONT259472,95.0,Critical,Risk indicators: measured weight is 28% lower than declared; above-average dwell time (113 hrs); declared during off-hours.,SY,SGP,JP,8471,COSCO,424022.29,14264.58,10261.65,113.36,2024-01-21,Flagged
-CONT755354,95.0,Critical,Risk indicators: measured weight is 22% higher than declared; declared during off-hours; weekend declaration.,LY,DXB,NL,6110,ONE,1435.45,13080.8,15975.19,1.24,2024-08-24,Seized
-CONT651852,95.0,Critical,Risk indicators: measured weight is 81% higher than declared; very high dwell time (139 hrs); declared during off-hours.,NG,LAX,US,8703,EVERGREEN,386306.23,5443.9,9827.44,139.26,2024-06-12,Under Review
-CONT874504,94.9,Critical,Risk indicators: measured weight is 24% higher than declared; very high dwell time (149 hrs); declared during off-hours.,YE,HAM,CH,8542,PIL,1301336.09,14739.72,18261.37,148.94,2024-02-26,Flagged
-CONT170119,94.8,Critical,Risk indicators: measured weight is 95% lower than declared; declared during off-hours; weekend declaration.,VE,HAM,NL,2933,MAERSK,1642.36,2152.37,100.0,0.32,2024-11-10,Under Review
-CONT906242,94.8,Critical,Risk indicators: measured weight is 36% higher than declared; very high dwell time (134 hrs); declared during off-hours.,AF,LAX,CA,2710,MSC,1780406.12,11649.38,15790.7,134.42,2024-03-12,Flagged
-CONT811238,94.8,Critical,Risk indicators: measured weight is 45% higher than declared; declared during off-hours; weekend declaration.,IQ,SHA,SG,8542,CMA CGM,1158.38,2766.11,4023.03,0.54,2024-12-29,Under Review
-CONT416689,94.7,Critical,Risk indicators: measured weight is 163% higher than declared; declared during off-hours; weekend declaration.,KP,LAX,JP,8471,PIL,1870.29,1589.28,4183.97,0.25,2024-01-20,Seized
-CONT543842,94.7,Critical,Risk indicators: measured weight is 45% lower than declared; very high dwell time (162 hrs); declared during off-hours.,VE,RTM,CH,8471,CMA CGM,1668289.76,11175.32,6192.61,162.48,2024-12-30,Flagged
-CONT591818,94.6,Critical,Risk indicators: measured weight is 17% lower than declared; above-average dwell time (101 hrs); declared during off-hours.,AF,DEL,CH,7108,ONE,1272.5,10268.68,8488.24,100.93,2024-03-17,Under Review
-CONT479553,94.6,Critical,Risk indicators: measured weight is 80% lower than declared; very high dwell time (135 hrs); declared during off-hours.,YE,HKG,JP,7108,COSCO,1146254.87,5338.08,1062.13,135.02,2024-02-13,Seized
-CONT207512,94.3,Critical,Risk indicators: measured weight is 75% lower than declared; very high dwell time (141 hrs); declared during off-hours.,SO,LAX,CH,8471,EVERGREEN,361289.79,6264.79,1549.51,141.31,2024-02-29,Flagged
-CONT851883,94.3,Critical,Risk indicators: measured weight is 52% lower than declared; declared during off-hours; weekend declaration.,MM,DXB,DE,3004,PIL,1045183.3,4473.8,2150.18,0.12,2024-08-24,Flagged
-CONT743162,94.2,Critical,Risk indicators: measured weight is 75% lower than declared; declared during off-hours; weekend declaration.,SO,RTM,AU,3004,MSC,549701.87,5926.93,1465.31,1.15,2024-07-20,Flagged
-CONT461309,93.9,Critical,Risk indicators: measured weight is 73% lower than declared; declared during off-hours; weekend declaration.,SO,SHA,SG,8471,COSCO,1542.66,1584.91,422.17,0.26,2024-02-25,Seized
-CONT895326,93.8,Critical,Risk indicators: measured weight is 38% lower than declared; unusually high value-per-kg ($802/kg); declared during off-hours.,IR,SHA,JP,3004,EVERGREEN,1933746.51,2410.07,1496.65,1.28,2024-04-27,Seized
-CONT841804,93.8,Critical,Risk indicators: measured weight is 77% lower than declared; declared during off-hours; weekend declaration.,YE,MUM,US,2710,CMA CGM,688.88,1737.57,407.49,1.15,2024-10-12,Flagged
-CONT560337,93.3,Critical,Risk indicators: measured weight is 22% higher than declared; very high dwell time (150 hrs); declared during off-hours.,SO,LAX,GB,8703,MSC,285577.02,8667.68,10538.44,150.08,2024-12-25,Flagged
-CONT896184,93.0,Critical,Risk indicators: measured weight is 46% lower than declared; very high dwell time (200 hrs); declared during off-hours.,AF,SGP,FR,2933,CMA CGM,1969809.61,5135.17,2755.24,199.63,2024-05-10,Flagged
-CONT566389,92.9,Critical,Risk indicators: measured weight is 24% lower than declared; very high dwell time (194 hrs); declared during off-hours.,SY,SGP,DE,8542,MSC,562.54,14997.81,11384.14,194.25,2024-08-21,Seized
-CONT796595,92.3,Critical,Risk indicators: measured weight is 92% lower than declared; declared during off-hours; weekend declaration.,LY,MUM,CH,8517,YML,198223.99,1327.76,100.0,0.73,2024-06-29,Flagged
-CONT732405,92.0,Critical,Risk indicators: measured weight is 93% lower than declared; declared during off-hours; weekend declaration.,AF,RTM,NL,2710,ONE,521.61,1501.17,100.0,73.28,2024-12-01,Seized
-CONT834782,91.8,Critical,Risk indicators: very high dwell time (129 hrs); declared during off-hours.,SO,DXB,FR,2933,HMM,592.86,6060.48,6602.87,129.05,2024-12-05,Under Review
-CONT724771,91.7,Critical,Risk indicators: measured weight is 54% lower than declared; declared during off-hours; weekend declaration.,AF,SGP,CH,8542,PIL,1541.49,1012.01,462.37,0.56,2024-04-20,Flagged
-CONT397668,91.6,Critical,Risk indicators: measured weight is 92% lower than declared; very high dwell time (167 hrs); declared during off-hours.,MM,NYC,DE,7108,EVERGREEN,1117.29,1327.94,100.0,166.65,2024-07-16,Under Review
-CONT806050,89.9,Critical,"Risk indicators: measured weight is 264% higher than declared; unusually high value-per-kg ($1,248/kg); declared during off-hours.",IQ,DEL,CH,2710,HAPAG,859237.17,688.65,2509.99,0.13,2024-12-12,Flagged
-CONT957759,89.7,Critical,Risk indicators: measured weight is 56% higher than declared; above-average dwell time (106 hrs); declared during off-hours.,NG,HKG,US,2933,MAERSK,1413.1,6382.86,9966.27,106.31,2024-09-23,Seized
-CONT729021,89.5,Critical,Risk indicators: measured weight is 94% lower than declared; unusually high value-per-kg ($829/kg); declared during off-hours.,PK,DXB,AU,3004,YML,1389454.18,1675.36,100.0,1.44,2024-04-05,Flagged
-CONT978879,89.4,Critical,Risk indicators: measured weight is 15% higher than declared; declared during off-hours; weekend declaration.,VE,LAX,AU,8703,EVERGREEN,1756.39,11009.99,12621.95,0.56,2024-11-02,Flagged
-CONT918731,89.2,Critical,Risk indicators: measured weight is 29% higher than declared; declared during off-hours.,KP,LAX,FR,3004,ONE,1197993.11,13619.11,17511.52,0.26,2024-10-08,Flagged
-CONT543316,89.2,Critical,Risk indicators: measured weight is 52% higher than declared; unusually high value-per-kg ($578/kg); declared during off-hours.,PK,SGP,JP,8471,CMA CGM,1690378.14,2923.41,4445.72,0.58,2024-10-28,Flagged
-CONT651216,89.1,Critical,Risk indicators: measured weight is 33% higher than declared; declared during off-hours.,MM,HKG,JP,9013,MSC,803441.15,13861.94,18453.58,1.17,2024-05-23,Under Review
-CONT922827,88.9,Critical,Risk indicators: measured weight is 95% lower than declared; unusually high value-per-kg ($632/kg); above-average dwell time (109 hrs).,IR,DXB,CH,8703,HMM,1393974.91,2204.13,100.0,108.57,2024-06-21,Seized
-CONT370846,88.9,Critical,Risk indicators: measured weight is 42% higher than declared; declared during off-hours; transit shipment.,YE,NYC,JP,6110,ONE,385792.09,11775.23,16717.98,0.65,2024-11-06,Under Review
-CONT814221,88.8,Critical,Risk indicators: measured weight is 90% higher than declared; declared during off-hours; transit shipment.,KP,SGP,CH,2933,MSC,727.74,3186.51,6048.56,1.28,2024-11-29,Under Review
-CONT252324,88.8,Critical,Risk indicators: measured weight is 19% lower than declared; declared during off-hours.,KP,MUM,JP,2710,PIL,428.24,13166.25,10642.7,0.81,2024-11-26,Flagged
-CONT610259,88.6,Critical,Risk indicators: measured weight is 97% lower than declared; declared during off-hours.,MM,DXB,FR,8542,COSCO,1295667.73,3620.43,100.0,1.44,2024-09-12,Flagged
-CONT998886,88.6,Critical,Risk indicators: measured weight is 29% lower than declared; declared during off-hours; transit shipment.,SD,HKG,US,7108,COSCO,104.46,10203.16,7284.44,1.18,2024-12-16,Flagged
-CONT477218,88.5,Critical,Risk indicators: measured weight is 19% lower than declared; declared during off-hours.,MM,HAM,US,8703,PIL,1864.26,12463.01,10041.99,0.49,2024-08-05,Flagged
-CONT839804,88.5,Critical,Risk indicators: measured weight is 52% higher than declared; declared during off-hours.,SO,HKG,NL,8703,CMA CGM,1457220.61,7007.8,10645.24,0.27,2024-03-13,Under Review
-CONT643296,88.4,Critical,Risk indicators: measured weight is 269% higher than declared; declared during off-hours.,VE,DEL,NL,8517,COSCO,1208.21,1179.35,4350.04,0.11,2024-04-16,Flagged
-CONT125739,88.3,Critical,Risk indicators: measured weight is 38% higher than declared; declared during off-hours.,AF,NYC,US,9013,COSCO,151.05,8412.59,11596.54,0.4,2024-08-05,Flagged
-CONT753080,88.2,Critical,Risk indicators: measured weight is 30% lower than declared; declared during off-hours.,MM,LAX,SG,2933,ONE,928489.25,9818.11,6858.34,0.6,2024-02-15,Flagged
-CONT197799,88.2,Critical,Risk indicators: measured weight is 47% higher than declared; declared during off-hours.,IQ,RTM,JP,7108,HMM,409055.55,4811.74,7074.58,1.08,2024-09-09,Seized
-CONT761334,88.2,Critical,Risk indicators: measured weight is 17% lower than declared; declared during off-hours.,IR,DEL,DE,3004,MSC,877.26,14264.46,11811.23,0.6,2024-08-12,Seized
-CONT201376,88.1,Critical,Risk indicators: measured weight is 17% higher than declared; very high dwell time (145 hrs); declared during off-hours.,PK,DXB,GB,6110,MSC,563.88,12652.67,14837.01,145.04,2024-05-26,Flagged
+CONT207044,99.6,Critical,Risk indicators: weight is 31% higher than declared; very high dwell (168 hrs); above-average dwell (168 hrs).,PK,SHA,CA,2933,HAPAG,750550.73,7953.34,10424.54,168.4,2024-12-07,Flagged
+CONT128328,99.5,Critical,Risk indicators: weight is 29% higher than declared; very high dwell (199 hrs); above-average dwell (199 hrs).,VE,RTM,CA,9013,EVERGREEN,497452.38,8632.68,11137.62,199.36,2024-09-28,Under Review
+CONT594829,99.2,Critical,"Risk indicators: weight is 91% lower than declared; high value/kg ($1,305/kg); very high dwell (194 hrs).",SY,HAM,AU,8542,MAERSK,1438237.1,1101.71,100.0,194.0,2024-02-03,Seized
+CONT435441,98.9,Critical,Risk indicators: weight is 61% higher than declared; very high dwell (124 hrs); above-average dwell (124 hrs).,SO,NYC,DE,9013,HMM,271915.22,6400.17,10286.09,123.73,2024-10-05,Under Review
+CONT566882,98.9,Critical,Risk indicators: weight is 43% higher than declared; very high dwell (138 hrs); above-average dwell (138 hrs).,IQ,RTM,AU,6110,EVERGREEN,1457732.25,6914.11,9885.63,138.14,2024-03-16,Seized
+CONT484546,98.2,Critical,Risk indicators: weight is 22% lower than declared; very high dwell (158 hrs); above-average dwell (158 hrs).,VE,DXB,US,8542,CMA CGM,1073894.81,12530.59,9828.64,158.47,2024-05-11,Under Review
+CONT350703,97.4,Critical,Risk indicators: weight is 78% lower than declared; very high dwell (173 hrs); above-average dwell (173 hrs).,VE,SGP,US,8703,HAPAG,236763.56,4483.22,968.36,173.03,2024-05-18,Flagged
+CONT305463,97.3,Critical,Risk indicators: weight is 148% higher than declared; high value/kg ($560/kg); off-hours declaration.,VE,HKG,JP,8542,HMM,1761392.31,3148.06,7793.3,0.57,2024-08-24,Flagged
+CONT448152,97.3,Critical,"Risk indicators: weight is 243% higher than declared; high value/kg ($3,014/kg); off-hours declaration.",AF,LAX,US,8471,EVERGREEN,1871818.56,621.14,2128.15,1.09,2024-10-27,Seized
+CONT329192,97.1,Critical,Risk indicators: very high dwell (144 hrs); above-average dwell (144 hrs); off-hours declaration.,YE,HAM,GB,8703,PIL,1643141.22,13707.1,14652.03,144.43,2024-03-17,Seized
+CONT771314,96.9,Critical,Risk indicators: weight is 32% higher than declared; very high dwell (173 hrs); above-average dwell (173 hrs).,LY,DXB,GB,8471,YML,403.04,10837.92,14286.2,172.67,2024-10-17,Seized
+CONT479989,96.4,Critical,Risk indicators: weight is 31% higher than declared; very high dwell (169 hrs); above-average dwell (169 hrs).,KP,HAM,JP,2933,COSCO,1421480.56,9727.95,12762.69,168.71,2024-10-10,Under Review
+CONT940530,96.2,Critical,Risk indicators: weight is 29% higher than declared; very high dwell (188 hrs); above-average dwell (188 hrs).,IQ,DXB,GB,2710,COSCO,289.97,7826.16,10079.44,187.89,2024-05-23,Flagged
+CONT962839,96.1,Critical,Risk indicators: weight is 56% higher than declared; very high dwell (192 hrs); above-average dwell (192 hrs).,IQ,NYC,CH,2710,ONE,412.68,7151.22,11152.16,191.5,2024-11-21,Flagged
+CONT865359,95.9,Critical,Risk indicators: weight is 51% higher than declared; very high dwell (199 hrs); above-average dwell (199 hrs).,KP,DXB,SG,2933,MSC,889341.7,5301.62,8005.02,198.53,2024-04-03,Under Review
+CONT201894,95.9,Critical,Risk indicators: weight is 34% higher than declared; very high dwell (131 hrs); above-average dwell (131 hrs).,SO,LAX,CH,8471,ONE,888168.75,13153.5,17628.23,130.55,2024-10-04,Flagged
+CONT671621,95.9,Critical,Risk indicators: weight is 111% higher than declared; high value/kg ($554/kg); very high dwell (137 hrs).,VE,HKG,CA,9013,EVERGREEN,1713524.48,3092.93,6516.28,137.13,2024-12-30,Flagged
+CONT935488,95.9,Critical,Risk indicators: weight is 46% higher than declared; off-hours declaration; weekend declaration.,SD,HAM,CH,7108,HAPAG,145.81,4564.85,6646.79,0.18,2024-12-29,Flagged
+CONT832878,95.9,Critical,Risk indicators: weight is 224% higher than declared; off-hours declaration; weekend declaration.,NG,HAM,CA,8703,YML,1233.77,1878.08,6076.19,0.15,2024-10-06,Seized
+CONT757917,95.4,Critical,Risk indicators: weight is 43% higher than declared; very high dwell (192 hrs); above-average dwell (192 hrs).,LY,LAX,JP,8517,HMM,1581.76,10655.19,15192.18,191.76,2024-04-08,Under Review
+CONT103114,95.2,Critical,Risk indicators: weight is 44% higher than declared; off-hours declaration; weekend declaration.,SO,SGP,DE,8703,ONE,1559142.96,6033.44,8685.15,0.3,2024-04-14,Seized
+CONT933510,95.1,Critical,Risk indicators: weight is 96% lower than declared; high value/kg ($689/kg); above-average dwell (90 hrs).,YE,NYC,NL,8542,CMA CGM,1893170.83,2747.63,100.0,90.28,2024-05-04,Flagged
+CONT620551,95.0,Critical,Risk indicators: weight is 32% lower than declared; high value/kg ($434/kg); off-hours declaration.,SD,MUM,US,2710,CMA CGM,1654137.35,3815.06,2591.65,0.46,2024-08-10,Seized
+CONT259472,95.0,Critical,Risk indicators: weight is 28% lower than declared; above-average dwell (113 hrs); off-hours declaration.,SY,SGP,JP,8471,COSCO,424022.29,14264.58,10261.65,113.36,2024-01-21,Flagged
+CONT755354,95.0,Critical,Risk indicators: weight is 22% higher than declared; off-hours declaration; weekend declaration.,LY,DXB,NL,6110,ONE,1435.45,13080.8,15975.19,1.24,2024-08-24,Seized
+CONT651852,95.0,Critical,Risk indicators: weight is 81% higher than declared; very high dwell (139 hrs); above-average dwell (139 hrs).,NG,LAX,US,8703,EVERGREEN,386306.23,5443.9,9827.44,139.26,2024-06-12,Under Review
+CONT874504,94.9,Critical,Risk indicators: weight is 24% higher than declared; very high dwell (149 hrs); above-average dwell (149 hrs).,YE,HAM,CH,8542,PIL,1301336.09,14739.72,18261.37,148.94,2024-02-26,Flagged
+CONT170119,94.8,Critical,Risk indicators: weight is 95% lower than declared; off-hours declaration; weekend declaration.,VE,HAM,NL,2933,MAERSK,1642.36,2152.37,100.0,0.32,2024-11-10,Under Review
+CONT906242,94.8,Critical,Risk indicators: weight is 36% higher than declared; very high dwell (134 hrs); above-average dwell (134 hrs).,AF,LAX,CA,2710,MSC,1780406.12,11649.38,15790.7,134.42,2024-03-12,Flagged
+CONT811238,94.8,Critical,Risk indicators: weight is 45% higher than declared; off-hours declaration; weekend declaration.,IQ,SHA,SG,8542,CMA CGM,1158.38,2766.11,4023.03,0.54,2024-12-29,Under Review
+CONT416689,94.7,Critical,Risk indicators: weight is 163% higher than declared; off-hours declaration; weekend declaration.,KP,LAX,JP,8471,PIL,1870.29,1589.28,4183.97,0.25,2024-01-20,Seized
+CONT543842,94.7,Critical,Risk indicators: weight is 45% lower than declared; very high dwell (162 hrs); above-average dwell (162 hrs).,VE,RTM,CH,8471,CMA CGM,1668289.76,11175.32,6192.61,162.48,2024-12-30,Flagged
+CONT591818,94.6,Critical,Risk indicators: weight is 17% lower than declared; above-average dwell (101 hrs); off-hours declaration.,AF,DEL,CH,7108,ONE,1272.5,10268.68,8488.24,100.93,2024-03-17,Under Review
+CONT479553,94.6,Critical,Risk indicators: weight is 80% lower than declared; very high dwell (135 hrs); above-average dwell (135 hrs).,YE,HKG,JP,7108,COSCO,1146254.87,5338.08,1062.13,135.02,2024-02-13,Seized
+CONT207512,94.3,Critical,Risk indicators: weight is 75% lower than declared; very high dwell (141 hrs); above-average dwell (141 hrs).,SO,LAX,CH,8471,EVERGREEN,361289.79,6264.79,1549.51,141.31,2024-02-29,Flagged
+CONT851883,94.3,Critical,Risk indicators: weight is 52% lower than declared; off-hours declaration; weekend declaration.,MM,DXB,DE,3004,PIL,1045183.3,4473.8,2150.18,0.12,2024-08-24,Flagged
+CONT743162,94.2,Critical,Risk indicators: weight is 75% lower than declared; off-hours declaration; weekend declaration.,SO,RTM,AU,3004,MSC,549701.87,5926.93,1465.31,1.15,2024-07-20,Flagged
+CONT461309,93.9,Critical,Risk indicators: weight is 73% lower than declared; off-hours declaration; weekend declaration.,SO,SHA,SG,8471,COSCO,1542.66,1584.91,422.17,0.26,2024-02-25,Seized
+CONT895326,93.8,Critical,Risk indicators: weight is 38% lower than declared; high value/kg ($802/kg); off-hours declaration.,IR,SHA,JP,3004,EVERGREEN,1933746.51,2410.07,1496.65,1.28,2024-04-27,Seized
+CONT841804,93.8,Critical,Risk indicators: weight is 77% lower than declared; off-hours declaration; weekend declaration.,YE,MUM,US,2710,CMA CGM,688.88,1737.57,407.49,1.15,2024-10-12,Flagged
+CONT560337,93.3,Critical,Risk indicators: weight is 22% higher than declared; very high dwell (150 hrs); above-average dwell (150 hrs).,SO,LAX,GB,8703,MSC,285577.02,8667.68,10538.44,150.08,2024-12-25,Flagged
+CONT896184,93.0,Critical,Risk indicators: weight is 46% lower than declared; very high dwell (200 hrs); above-average dwell (200 hrs).,AF,SGP,FR,2933,CMA CGM,1969809.61,5135.17,2755.24,199.63,2024-05-10,Flagged
+CONT566389,92.9,Critical,Risk indicators: weight is 24% lower than declared; very high dwell (194 hrs); above-average dwell (194 hrs).,SY,SGP,DE,8542,MSC,562.54,14997.81,11384.14,194.25,2024-08-21,Seized
+CONT796595,92.3,Critical,Risk indicators: weight is 92% lower than declared; off-hours declaration; weekend declaration.,LY,MUM,CH,8517,YML,198223.99,1327.76,100.0,0.73,2024-06-29,Flagged
+CONT732405,92.0,Critical,Risk indicators: weight is 93% lower than declared; off-hours declaration; weekend declaration.,AF,RTM,NL,2710,ONE,521.61,1501.17,100.0,73.28,2024-12-01,Seized
+CONT834782,91.8,Critical,Risk indicators: very high dwell (129 hrs); above-average dwell (129 hrs); off-hours declaration.,SO,DXB,FR,2933,HMM,592.86,6060.48,6602.87,129.05,2024-12-05,Under Review
+CONT724771,91.7,Critical,Risk indicators: weight is 54% lower than declared; off-hours declaration; weekend declaration.,AF,SGP,CH,8542,PIL,1541.49,1012.01,462.37,0.56,2024-04-20,Flagged
+CONT397668,91.6,Critical,Risk indicators: weight is 92% lower than declared; very high dwell (167 hrs); above-average dwell (167 hrs).,MM,NYC,DE,7108,EVERGREEN,1117.29,1327.94,100.0,166.65,2024-07-16,Under Review
+CONT806050,89.9,Critical,"Risk indicators: weight is 264% higher than declared; high value/kg ($1,248/kg); off-hours declaration.",IQ,DEL,CH,2710,HAPAG,859237.17,688.65,2509.99,0.13,2024-12-12,Flagged
+CONT957759,89.7,Critical,Risk indicators: weight is 56% higher than declared; above-average dwell (106 hrs); off-hours declaration.,NG,HKG,US,2933,MAERSK,1413.1,6382.86,9966.27,106.31,2024-09-23,Seized
+CONT729021,89.5,Critical,Risk indicators: weight is 94% lower than declared; high value/kg ($829/kg); off-hours declaration.,PK,DXB,AU,3004,YML,1389454.18,1675.36,100.0,1.44,2024-04-05,Flagged
+CONT978879,89.4,Critical,Risk indicators: weight is 15% higher than declared; off-hours declaration; weekend declaration.,VE,LAX,AU,8703,EVERGREEN,1756.39,11009.99,12621.95,0.56,2024-11-02,Flagged
+CONT918731,89.2,Critical,Risk indicators: weight is 29% higher than declared; off-hours declaration.,KP,LAX,FR,3004,ONE,1197993.11,13619.11,17511.52,0.26,2024-10-08,Flagged
+CONT543316,89.2,Critical,Risk indicators: weight is 52% higher than declared; high value/kg ($578/kg); off-hours declaration.,PK,SGP,JP,8471,CMA CGM,1690378.14,2923.41,4445.72,0.58,2024-10-28,Flagged
+CONT651216,89.1,Critical,Risk indicators: weight is 33% higher than declared; off-hours declaration.,MM,HKG,JP,9013,MSC,803441.15,13861.94,18453.58,1.17,2024-05-23,Under Review
+CONT922827,88.9,Critical,Risk indicators: weight is 95% lower than declared; high value/kg ($632/kg); above-average dwell (109 hrs).,IR,DXB,CH,8703,HMM,1393974.91,2204.13,100.0,108.57,2024-06-21,Seized
+CONT370846,88.9,Critical,Risk indicators: weight is 42% higher than declared; off-hours declaration; transit shipment.,YE,NYC,JP,6110,ONE,385792.09,11775.23,16717.98,0.65,2024-11-06,Under Review
+CONT814221,88.8,Critical,Risk indicators: weight is 90% higher than declared; off-hours declaration; transit shipment.,KP,SGP,CH,2933,MSC,727.74,3186.51,6048.56,1.28,2024-11-29,Under Review
+CONT252324,88.8,Critical,Risk indicators: weight is 19% lower than declared; off-hours declaration.,KP,MUM,JP,2710,PIL,428.24,13166.25,10642.7,0.81,2024-11-26,Flagged
+CONT610259,88.6,Critical,Risk indicators: weight is 97% lower than declared; off-hours declaration.,MM,DXB,FR,8542,COSCO,1295667.73,3620.43,100.0,1.44,2024-09-12,Flagged
+CONT998886,88.6,Critical,Risk indicators: weight is 29% lower than declared; off-hours declaration; transit shipment.,SD,HKG,US,7108,COSCO,104.46,10203.16,7284.44,1.18,2024-12-16,Flagged
+CONT477218,88.5,Critical,Risk indicators: weight is 19% lower than declared; off-hours declaration.,MM,HAM,US,8703,PIL,1864.26,12463.01,10041.99,0.49,2024-08-05,Flagged
+CONT839804,88.5,Critical,Risk indicators: weight is 52% higher than declared; off-hours declaration.,SO,HKG,NL,8703,CMA CGM,1457220.61,7007.8,10645.24,0.27,2024-03-13,Under Review
+CONT643296,88.4,Critical,Risk indicators: weight is 269% higher than declared; off-hours declaration.,VE,DEL,NL,8517,COSCO,1208.21,1179.35,4350.04,0.11,2024-04-16,Flagged
+CONT125739,88.3,Critical,Risk indicators: weight is 38% higher than declared; off-hours declaration.,AF,NYC,US,9013,COSCO,151.05,8412.59,11596.54,0.4,2024-08-05,Flagged
+CONT753080,88.2,Critical,Risk indicators: weight is 30% lower than declared; off-hours declaration.,MM,LAX,SG,2933,ONE,928489.25,9818.11,6858.34,0.6,2024-02-15,Flagged
+CONT197799,88.2,Critical,Risk indicators: weight is 47% higher than declared; off-hours declaration.,IQ,RTM,JP,7108,HMM,409055.55,4811.74,7074.58,1.08,2024-09-09,Seized
+CONT761334,88.2,Critical,Risk indicators: weight is 17% lower than declared; off-hours declaration.,IR,DEL,DE,3004,MSC,877.26,14264.46,11811.23,0.6,2024-08-12,Seized
+CONT201376,88.1,Critical,Risk indicators: weight is 17% higher than declared; very high dwell (145 hrs); above-average dwell (145 hrs).,PK,DXB,GB,6110,MSC,563.88,12652.67,14837.01,145.04,2024-05-26,Flagged
 CONT705058,88.0,Critical,Risk indicators: weekend declaration; transit shipment.,IQ,DXB,AU,2710,MSC,183332.6,4339.89,4283.1,8.97,2024-07-14,Cleared
-CONT608670,87.9,Critical,Risk indicators: measured weight is 101% higher than declared; declared during off-hours.,NG,MUM,CA,8542,YML,1171.1,3944.62,7936.01,1.38,2024-05-01,Under Review
-CONT938018,87.9,Critical,Risk indicators: measured weight is 49% lower than declared; unusually high value-per-kg ($418/kg); above-average dwell time (81 hrs).,NG,DXB,CA,9013,YML,1254779.03,2999.6,1540.94,81.33,2024-11-04,Flagged
-CONT249143,87.8,Critical,Risk indicators: measured weight is 29% higher than declared; declared during off-hours; transit shipment.,YE,NYC,GB,8471,EVERGREEN,1399.53,9574.97,12329.65,0.2,2024-06-26,Under Review
-CONT980214,87.7,Critical,Risk indicators: measured weight is 79% lower than declared; declared during off-hours.,SD,SGP,FR,3004,ONE,1386187.49,5558.91,1194.23,0.75,2024-05-20,Seized
-CONT331496,87.6,Critical,Risk indicators: measured weight is 22% higher than declared; declared during off-hours.,YE,LAX,AU,2710,HMM,752017.97,13696.95,16710.84,0.19,2024-05-01,Flagged
-CONT726701,87.6,Critical,Risk indicators: measured weight is 20% lower than declared; above-average dwell time (79 hrs); declared during off-hours.,IQ,HAM,JP,2933,MSC,421.41,14359.73,11459.77,79.39,2024-11-20,Seized
-CONT838471,87.5,Critical,Risk indicators: measured weight is 20% higher than declared; declared during off-hours.,SY,SHA,JP,8703,CMA CGM,1198883.55,12251.79,14641.84,0.2,2024-03-20,Seized
-CONT860956,87.4,Critical,Risk indicators: measured weight is 49% higher than declared; above-average dwell time (77 hrs); declared during off-hours.,IR,MUM,NL,2710,HAPAG,471182.03,8284.46,12303.15,76.65,2024-03-19,Seized
-CONT967758,87.2,Critical,Risk indicators: measured weight is 92% lower than declared; declared during off-hours.,SY,HAM,GB,6110,ONE,501.14,1233.11,100.0,1.03,2024-10-01,Flagged
-CONT420701,87.1,Critical,Risk indicators: measured weight is 18% lower than declared; declared during off-hours.,LY,SGP,US,8471,EVERGREEN,992.51,14587.22,11958.85,0.49,2024-05-15,Seized
-CONT351839,86.9,Critical,Risk indicators: measured weight is 27% lower than declared; declared during off-hours.,LY,MUM,DE,2710,HMM,145.5,6524.95,4739.64,0.25,2024-08-28,Flagged
-CONT512918,86.7,Critical,Risk indicators: measured weight is 97% lower than declared; declared during off-hours.,SD,RTM,SG,8471,ONE,281258.63,3079.38,100.0,0.66,2024-06-03,Flagged
+CONT608670,87.9,Critical,Risk indicators: weight is 101% higher than declared; off-hours declaration.,NG,MUM,CA,8542,YML,1171.1,3944.62,7936.01,1.38,2024-05-01,Under Review
+CONT938018,87.9,Critical,Risk indicators: weight is 49% lower than declared; high value/kg ($418/kg); above-average dwell (81 hrs).,NG,DXB,CA,9013,YML,1254779.03,2999.6,1540.94,81.33,2024-11-04,Flagged
+CONT249143,87.8,Critical,Risk indicators: weight is 29% higher than declared; off-hours declaration; transit shipment.,YE,NYC,GB,8471,EVERGREEN,1399.53,9574.97,12329.65,0.2,2024-06-26,Under Review
+CONT980214,87.7,Critical,Risk indicators: weight is 79% lower than declared; off-hours declaration.,SD,SGP,FR,3004,ONE,1386187.49,5558.91,1194.23,0.75,2024-05-20,Seized
+CONT331496,87.6,Critical,Risk indicators: weight is 22% higher than declared; off-hours declaration.,YE,LAX,AU,2710,HMM,752017.97,13696.95,16710.84,0.19,2024-05-01,Flagged
+CONT726701,87.6,Critical,Risk indicators: weight is 20% lower than declared; above-average dwell (79 hrs); off-hours declaration.,IQ,HAM,JP,2933,MSC,421.41,14359.73,11459.77,79.39,2024-11-20,Seized
+CONT838471,87.5,Critical,Risk indicators: weight is 20% higher than declared; off-hours declaration.,SY,SHA,JP,8703,CMA CGM,1198883.55,12251.79,14641.84,0.2,2024-03-20,Seized
+CONT860956,87.4,Critical,Risk indicators: weight is 49% higher than declared; above-average dwell (77 hrs); off-hours declaration.,IR,MUM,NL,2710,HAPAG,471182.03,8284.46,12303.15,76.65,2024-03-19,Seized
+CONT967758,87.2,Critical,Risk indicators: weight is 92% lower than declared; off-hours declaration.,SY,HAM,GB,6110,ONE,501.14,1233.11,100.0,1.03,2024-10-01,Flagged
+CONT420701,87.1,Critical,Risk indicators: weight is 18% lower than declared; off-hours declaration.,LY,SGP,US,8471,EVERGREEN,992.51,14587.22,11958.85,0.49,2024-05-15,Seized
+CONT351839,86.9,Critical,Risk indicators: weight is 27% lower than declared; off-hours declaration.,LY,MUM,DE,2710,HMM,145.5,6524.95,4739.64,0.25,2024-08-28,Flagged
+CONT512918,86.7,Critical,Risk indicators: weight is 97% lower than declared; off-hours declaration.,SD,RTM,SG,8471,ONE,281258.63,3079.38,100.0,0.66,2024-06-03,Flagged
 CONT943352,86.7,Critical,Risk indicators: weekend declaration.,AF,MUM,CA,6110,HAPAG,142986.01,17486.34,16814.97,8.67,2024-11-30,Cleared
-CONT897388,86.5,Critical,Risk indicators: measured weight is 80% higher than declared; declared during off-hours.,YE,DEL,CH,3004,YML,227744.94,1836.44,3302.57,1.08,2024-08-07,Seized
-CONT172692,86.4,Critical,Risk indicators: measured weight is 45% lower than declared; declared during off-hours.,KP,SGP,US,2710,MAERSK,608.78,3972.9,2189.09,1.3,2024-07-19,Flagged
-CONT910238,86.4,Critical,Risk indicators: measured weight is 91% lower than declared; declared during off-hours.,SO,SGP,GB,8517,PIL,127.31,1146.53,100.0,1.03,2024-11-12,Under Review
-CONT417499,86.4,Critical,Risk indicators: measured weight is 41% higher than declared; declared during off-hours.,SY,NYC,FR,8703,HMM,339.69,6100.43,8605.8,75.0,2024-09-13,Flagged
-CONT147111,86.1,Critical,Risk indicators: measured weight is 14% lower than declared; declared during off-hours.,KP,NYC,JP,8471,MAERSK,1979920.35,10534.16,9051.99,0.91,2024-07-08,Seized
-CONT585443,86.0,Critical,Risk indicators: measured weight is 18% lower than declared; declared during off-hours.,SD,DXB,GB,8517,MSC,1611.6,5367.39,4396.42,0.69,2024-10-18,Flagged
-CONT807611,85.8,Critical,Risk indicators: measured weight is 21% lower than declared; declared during off-hours.,KP,MUM,NL,8517,ONE,110492.02,6639.32,5245.1,1.1,2024-05-14,Flagged
-CONT514983,85.6,Critical,Risk indicators: measured weight is 43% higher than declared; above-average dwell time (97 hrs); declared during off-hours.,SY,SHA,DE,2933,MSC,864.32,1302.32,1867.64,96.8,2024-03-04,Under Review
-CONT740337,85.6,Critical,Risk indicators: measured weight is 22% lower than declared; declared during off-hours.,AF,MUM,DE,3004,MAERSK,946979.62,4888.28,3809.48,0.7,2024-04-25,Seized
-CONT995596,85.4,Critical,Risk indicators: measured weight is 41% lower than declared; declared during off-hours.,SD,SGP,NL,8471,CMA CGM,506.59,3071.24,1798.0,0.12,2024-05-16,Flagged
-CONT227309,85.3,Critical,Risk indicators: measured weight is 94% lower than declared; declared during off-hours.,PK,RTM,DE,2710,HAPAG,1231.71,1774.09,100.0,0.95,2024-05-16,Under Review
-CONT793464,85.1,Critical,Risk indicators: measured weight is 91% lower than declared; above-average dwell time (82 hrs); declared during off-hours.,NG,DXB,CA,3004,CMA CGM,1948.31,1077.06,100.0,81.85,2024-09-20,Seized
-CONT528565,85.0,Critical,Risk indicators: measured weight is 19% higher than declared; declared during off-hours.,LY,SGP,GB,2933,HMM,1671.98,5735.58,6800.63,0.65,2024-06-28,Flagged
-CONT448848,85.0,Critical,Risk indicators: very high dwell time (168 hrs); declared during off-hours.,LY,SGP,SG,7108,MSC,1414268.22,8986.8,8453.72,168.04,2024-03-20,Flagged
-CONT942606,85.0,Critical,Risk indicators: measured weight is 19% lower than declared; declared during off-hours.,VE,NYC,DE,2933,HAPAG,202690.49,3751.96,3050.51,0.82,2024-04-10,Under Review
-CONT843246,84.8,Critical,Risk indicators: measured weight is 16% lower than declared; declared during off-hours.,SY,NYC,GB,9013,YML,1700396.67,4633.88,3883.44,0.67,2024-05-13,Under Review
-CONT727035,83.2,Critical,Risk indicators: measured weight is 14% lower than declared; declared during off-hours.,SO,HKG,AU,6110,MAERSK,1118072.6,9706.92,8302.72,72.16,2024-04-24,Seized
+CONT897388,86.5,Critical,Risk indicators: weight is 80% higher than declared; off-hours declaration.,YE,DEL,CH,3004,YML,227744.94,1836.44,3302.57,1.08,2024-08-07,Seized
+CONT172692,86.4,Critical,Risk indicators: weight is 45% lower than declared; off-hours declaration.,KP,SGP,US,2710,MAERSK,608.78,3972.9,2189.09,1.3,2024-07-19,Flagged
+CONT910238,86.4,Critical,Risk indicators: weight is 91% lower than declared; off-hours declaration.,SO,SGP,GB,8517,PIL,127.31,1146.53,100.0,1.03,2024-11-12,Under Review
+CONT417499,86.4,Critical,Risk indicators: weight is 41% higher than declared; off-hours declaration.,SY,NYC,FR,8703,HMM,339.69,6100.43,8605.8,75.0,2024-09-13,Flagged
+CONT147111,86.1,Critical,Risk indicators: weight is 14% lower than declared; off-hours declaration.,KP,NYC,JP,8471,MAERSK,1979920.35,10534.16,9051.99,0.91,2024-07-08,Seized
+CONT585443,86.0,Critical,Risk indicators: weight is 18% lower than declared; off-hours declaration.,SD,DXB,GB,8517,MSC,1611.6,5367.39,4396.42,0.69,2024-10-18,Flagged
+CONT807611,85.8,Critical,Risk indicators: weight is 21% lower than declared; off-hours declaration.,KP,MUM,NL,8517,ONE,110492.02,6639.32,5245.1,1.1,2024-05-14,Flagged
+CONT514983,85.6,Critical,Risk indicators: weight is 43% higher than declared; above-average dwell (97 hrs); off-hours declaration.,SY,SHA,DE,2933,MSC,864.32,1302.32,1867.64,96.8,2024-03-04,Under Review
+CONT740337,85.6,Critical,Risk indicators: weight is 22% lower than declared; off-hours declaration.,AF,MUM,DE,3004,MAERSK,946979.62,4888.28,3809.48,0.7,2024-04-25,Seized
+CONT995596,85.4,Critical,Risk indicators: weight is 41% lower than declared; off-hours declaration.,SD,SGP,NL,8471,CMA CGM,506.59,3071.24,1798.0,0.12,2024-05-16,Flagged
+CONT227309,85.3,Critical,Risk indicators: weight is 94% lower than declared; off-hours declaration.,PK,RTM,DE,2710,HAPAG,1231.71,1774.09,100.0,0.95,2024-05-16,Under Review
+CONT793464,85.1,Critical,Risk indicators: weight is 91% lower than declared; above-average dwell (82 hrs); off-hours declaration.,NG,DXB,CA,3004,CMA CGM,1948.31,1077.06,100.0,81.85,2024-09-20,Seized
+CONT528565,85.0,Critical,Risk indicators: weight is 19% higher than declared; off-hours declaration.,LY,SGP,GB,2933,HMM,1671.98,5735.58,6800.63,0.65,2024-06-28,Flagged
+CONT448848,85.0,Critical,Risk indicators: very high dwell (168 hrs); above-average dwell (168 hrs); off-hours declaration.,LY,SGP,SG,7108,MSC,1414268.22,8986.8,8453.72,168.04,2024-03-20,Flagged
+CONT942606,85.0,Critical,Risk indicators: weight is 19% lower than declared; off-hours declaration.,VE,NYC,DE,2933,HAPAG,202690.49,3751.96,3050.51,0.82,2024-04-10,Under Review
+CONT843246,84.8,Critical,Risk indicators: weight is 16% lower than declared; off-hours declaration.,SY,NYC,GB,9013,YML,1700396.67,4633.88,3883.44,0.67,2024-05-13,Under Review
+CONT727035,83.2,Critical,Risk indicators: weight is 14% lower than declared; off-hours declaration.,SO,HKG,AU,6110,MAERSK,1118072.6,9706.92,8302.72,72.16,2024-04-24,Seized
 CONT579551,76.2,Critical,Risk indicators: weekend declaration.,NL,HKG,JP,8542,CMA CGM,11756.89,7109.13,7039.23,9.6,2024-11-23,Pending
 CONT913439,72.8,High,Risk indicators: transit shipment.,IQ,DXB,AU,2933,MSC,168007.42,8299.05,8100.86,10.54,2024-03-12,Cleared
 CONT261637,72.8,High,Risk indicators: anomalous pattern detected by ML model.,SD,LAX,JP,3004,ONE,38422.67,16005.47,15416.21,7.48,2024-09-11,Cleared
-CONT677880,71.4,High,Risk indicators: measured weight is 11% higher than declared; declared during off-hours.,MM,MUM,CH,3004,EVERGREEN,128836.08,13584.99,15065.58,1.25,2024-06-28,Seized
+CONT677880,71.4,High,Risk indicators: weight is 11% higher than declared; off-hours declaration.,MM,MUM,CH,3004,EVERGREEN,128836.08,13584.99,15065.58,1.25,2024-06-28,Seized
 CONT363606,69.9,High,Risk indicators: anomalous pattern detected by ML model.,CH,MUM,NL,8542,HAPAG,182804.63,11372.55,11133.5,8.29,2024-12-02,Pending
 CONT807173,66.2,High,Risk indicators: anomalous pattern detected by ML model.,CA,HKG,JP,7108,PIL,8768.89,7409.57,7334.01,9.47,2024-01-17,Cleared
 CONT297298,64.1,High,Risk indicators: transit shipment.,DE,LAX,CH,2710,HMM,158460.28,16590.95,16109.8,6.48,2024-01-16,Cleared
 CONT996716,57.0,High,Risk indicators: anomalous pattern detected by ML model.,SG,HAM,SG,8517,CMA CGM,53037.91,16346.35,16099.45,6.78,2024-05-31,Cleared
 CONT433840,56.8,High,Risk indicators: anomalous pattern detected by ML model.,US,DXB,CH,8542,ONE,123099.39,12996.96,12601.63,9.16,2024-03-11,Cleared
-CONT749714,56.5,High,Risk indicators: declared during off-hours; weekend declaration; transit shipment.,KP,HAM,JP,6110,HAPAG,235387.78,11320.01,10495.63,0.81,2024-01-28,Flagged
-CONT280760,55.5,High,Risk indicators: measured weight is 12% lower than declared; declared during off-hours; weekend declaration.,IQ,HKG,GB,8517,MSC,1254999.35,13113.5,11590.22,0.57,2024-03-30,Seized
+CONT749714,56.5,High,Risk indicators: off-hours declaration; weekend declaration; transit shipment.,KP,HAM,JP,6110,HAPAG,235387.78,11320.01,10495.63,0.81,2024-01-28,Flagged
+CONT280760,55.5,High,Risk indicators: weight is 12% lower than declared; off-hours declaration; weekend declaration.,IQ,HKG,GB,8517,MSC,1254999.35,13113.5,11590.22,0.57,2024-03-30,Seized
 CONT876684,55.2,High,Risk indicators: anomalous pattern detected by ML model.,NG,HAM,CH,6110,ONE,89956.05,18302.63,17860.65,9.68,2024-05-07,Cleared
 CONT561261,54.9,High,Risk indicators: anomalous pattern detected by ML model.,CH,MUM,DE,8542,MAERSK,54303.29,15011.2,14680.33,6.96,2024-05-22,Cleared
 CONT115896,54.5,High,Risk indicators: weekend declaration; transit shipment.,AU,HAM,US,9013,HAPAG,111196.11,7445.19,6797.48,5.81,2024-09-22,Cleared
-CONT853492,53.7,High,Risk indicators: measured weight is 11% higher than declared; above-average dwell time (89 hrs); declared during off-hours.,KP,RTM,FR,2933,CMA CGM,1285.11,5026.85,5591.56,88.98,2024-05-04,Seized
+CONT853492,53.7,High,Risk indicators: weight is 11% higher than declared; above-average dwell (89 hrs); off-hours declaration.,KP,RTM,FR,2933,CMA CGM,1285.11,5026.85,5591.56,88.98,2024-05-04,Seized
 CONT442703,51.6,High,Risk indicators: weekend declaration.,CH,SHA,JP,8517,COSCO,183520.22,11790.96,12006.94,5.49,2024-11-23,Cleared
 CONT596712,51.3,High,Risk indicators: weekend declaration.,SO,LAX,JP,7108,MAERSK,8445.66,2039.17,2027.7,8.52,2024-02-18,Cleared
 CONT100215,51.0,High,Risk indicators: weekend declaration.,DE,LAX,US,8471,COSCO,28470.9,4188.48,4288.51,6.97,2024-05-11,Cleared
-CONT587707,50.6,High,Risk indicators: measured weight is 18% higher than declared; above-average dwell time (80 hrs); declared during off-hours.,MM,MUM,DE,8471,HMM,1914543.55,13851.18,16364.93,80.31,2024-05-22,Under Review
+CONT587707,50.6,High,Risk indicators: weight is 18% higher than declared; above-average dwell (80 hrs); off-hours declaration.,MM,MUM,DE,8471,HMM,1914543.55,13851.18,16364.93,80.31,2024-05-22,Under Review
 CONT405505,50.5,High,Risk indicators: weekend declaration.,CH,SGP,CA,6110,CMA CGM,48066.29,18446.54,18454.44,5.71,2024-08-24,Cleared
 CONT715416,50.4,High,Risk indicators: weekend declaration.,SD,SHA,CH,2933,MSC,30447.75,15749.52,16780.65,28.88,2024-11-09,Cleared
 CONT625830,50.3,High,Risk indicators: weekend declaration.,AU,MUM,CA,8542,MSC,193887.13,15844.62,16706.73,34.27,2024-06-22,Cleared
-CONT381383,49.3,Medium,Minor flags (measured weight is 11% higher than declared; above-average dwell time (107 hrs)); overall risk within acceptable range.,SY,DEL,US,3004,HMM,1420727.65,11962.45,13259.92,106.86,2024-06-25,Flagged
-CONT721827,48.6,Medium,Minor flags (measured weight is 10% higher than declared; above-average dwell time (82 hrs)); overall risk within acceptable range.,SY,MUM,US,8471,COSCO,1420566.93,7526.72,8286.74,81.55,2024-09-16,Flagged
-CONT428947,47.9,Medium,Minor flags (above-average dwell time (119 hrs); declared during off-hours); overall risk within acceptable range.,LY,RTM,AU,6110,EVERGREEN,859.74,8108.97,8712.75,118.89,2024-11-15,Flagged
-CONT447220,47.8,Medium,Minor flags (declared during off-hours); overall risk within acceptable range.,LY,RTM,CA,2710,COSCO,1554538.83,13999.64,12924.24,0.19,2024-11-12,Under Review
-CONT761616,47.5,Medium,Minor flags (declared during off-hours); overall risk within acceptable range.,LY,LAX,AU,7108,HMM,1591.3,9729.11,8965.64,0.39,2024-07-01,Flagged
-CONT338178,47.4,Medium,Minor flags (declared during off-hours; transit shipment); overall risk within acceptable range.,KP,LAX,FR,9013,ONE,1668.52,10249.05,9355.67,0.4,2024-12-12,Under Review
-CONT876676,46.6,Medium,Minor flags (declared during off-hours); overall risk within acceptable range.,VE,HAM,CH,6110,HMM,496841.73,14478.25,15425.11,0.32,2024-05-01,Flagged
-CONT643803,43.6,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,AF,DXB,AU,8517,ONE,28100.03,12676.28,12667.51,4.6,2024-10-22,Cleared
-CONT213632,43.0,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,CA,DXB,FR,3004,COSCO,10947.55,12225.83,12407.38,5.64,2024-09-20,Cleared
-CONT396208,42.9,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,AU,DXB,DE,8517,YML,7540.77,5065.18,5382.7,4.62,2024-04-16,Cleared
-CONT794119,42.7,Medium,Minor flags (above-average dwell time (98 hrs); declared during off-hours); overall risk within acceptable range.,SD,SGP,NL,2933,MSC,1330.77,13297.12,12736.96,98.04,2024-10-18,Flagged
-CONT552558,42.0,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,US,DXB,FR,2710,MSC,35897.37,3111.87,3082.58,6.74,2024-05-24,Cleared
-CONT555968,41.9,Medium,Minor flags (transit shipment); overall risk within acceptable range.,SD,DXB,GB,3004,HAPAG,97463.9,14369.5,14560.07,8.3,2024-09-10,Cleared
-CONT728474,41.9,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,CA,RTM,NL,9013,HAPAG,172218.47,5723.49,5762.26,8.28,2024-11-27,Cleared
-CONT531374,41.8,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,NG,MUM,DE,2933,EVERGREEN,46555.42,8777.35,8713.82,5.37,2024-07-26,Cleared
-CONT569164,41.8,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,CA,DEL,GB,3004,COSCO,61982.55,17308.49,18295.01,44.07,2024-11-22,Cleared
-CONT327579,41.8,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,NG,MUM,CH,9013,PIL,110889.18,7455.63,7890.15,19.26,2024-12-20,Cleared
-CONT758981,41.7,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,NG,LAX,US,2710,ONE,52063.19,17447.26,17775.2,7.46,2024-04-09,Cleared
-CONT305603,41.4,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,DE,HKG,DE,2933,MSC,92263.06,5952.83,5930.03,8.48,2024-11-14,Cleared
-CONT988097,41.4,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,SO,SHA,AU,7108,MAERSK,77160.21,1233.88,1242.52,5.21,2024-06-04,Cleared
-CONT898022,41.4,Medium,Minor flags (transit shipment); overall risk within acceptable range.,SD,RTM,SG,8471,EVERGREEN,6728.34,19191.51,17498.6,47.9,2024-01-30,Cleared
-CONT131598,41.2,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,NG,RTM,CA,8542,MAERSK,120907.19,17195.88,18238.16,20.88,2024-03-19,Cleared
-CONT319678,41.1,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,DE,DXB,CA,8542,COSCO,48141.37,14176.69,15058.67,33.79,2024-05-17,Cleared
-CONT347652,41.1,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,SD,LAX,FR,2710,MSC,161129.47,6117.83,6451.25,23.97,2024-06-07,Cleared
-CONT952756,41.0,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,FR,LAX,GB,8542,CMA CGM,76494.35,3974.06,4195.02,31.24,2024-12-03,Cleared
-CONT470134,40.9,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,NL,SHA,JP,7108,EVERGREEN,19652.88,6312.43,6375.85,9.9,2024-12-06,Cleared
-CONT291335,40.9,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,AF,HKG,GB,6110,MSC,91937.39,4485.26,4549.02,8.4,2024-05-31,Cleared
-CONT283163,40.7,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,SO,SHA,US,8517,HAPAG,187103.86,18717.29,19731.68,21.7,2024-01-24,Cleared
-CONT384334,40.6,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,SO,SHA,JP,2710,COSCO,117569.41,10354.18,10965.46,42.09,2024-08-26,Pending
-CONT967196,40.6,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,AU,DXB,CA,9013,HAPAG,150828.52,19682.81,20075.82,10.63,2024-04-05,Cleared
-CONT781509,40.1,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,NG,SGP,DE,9013,MAERSK,136209.98,9719.87,9918.75,7.57,2024-05-06,Pending
-CONT675644,39.9,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,CH,NYC,GB,6110,COSCO,159834.91,3646.17,3887.74,31.28,2024-02-07,Cleared
-CONT263639,39.6,Medium,Minor flags (transit shipment); overall risk within acceptable range.,CH,SHA,CA,9013,EVERGREEN,51617.94,17323.12,18388.4,37.35,2024-02-29,Cleared
-CONT453827,39.6,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,AF,NYC,FR,8542,EVERGREEN,166568.34,7721.99,8120.3,38.73,2024-04-19,Cleared
-CONT860330,39.3,Medium,Minor flags (transit shipment); overall risk within acceptable range.,JP,HAM,FR,6110,HMM,45363.75,4642.99,4937.22,41.46,2024-05-22,Cleared
-CONT938530,39.1,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,DE,DEL,CH,3004,HMM,127112.96,15459.46,15622.73,9.77,2024-02-15,Cleared
-CONT825155,38.6,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,GB,HAM,CA,3004,MAERSK,96003.22,7829.05,7802.09,6.32,2024-02-08,Cleared
-CONT713217,37.1,Medium,Minor flags (transit shipment); overall risk within acceptable range.,CH,DXB,CA,8471,PIL,19807.02,9733.95,9776.36,7.42,2024-01-12,Cleared
-CONT957033,36.8,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,SG,MUM,SG,8703,CMA CGM,171099.12,18285.13,18343.09,6.31,2024-12-18,Cleared
-CONT376393,33.9,Medium,All shipment parameters within normal ranges. Standard clearance applicable.,NG,HAM,GB,2933,MSC,169905.13,15877.0,15743.59,9.03,2024-02-01,Cleared
-CONT963413,22.4,Low,Minor flags (declared during off-hours; weekend declaration); overall risk within acceptable range.,SY,LAX,AU,8542,YML,844440.7,11378.78,12054.09,1.13,2024-10-12,Seized
-CONT507688,20.7,Low,Minor flags (weekend declaration); overall risk within acceptable range.,US,DXB,AU,2933,MSC,101752.44,13113.51,12648.99,11.84,2024-03-30,Cleared
-CONT848013,17.0,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,NG,RTM,GB,9013,COSCO,42938.87,8221.42,8197.52,11.32,2024-01-27,Cleared
-CONT853315,15.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NL,HAM,SG,2710,PIL,172307.32,8581.87,8185.28,4.4,2024-10-27,Cleared
-CONT318967,15.8,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NG,HKG,FR,8542,MAERSK,32467.12,9596.35,9789.94,11.76,2024-06-09,Cleared
-CONT135169,15.3,Low,Minor flags (weekend declaration); overall risk within acceptable range.,US,HKG,US,7108,ONE,58510.29,12378.78,12665.03,21.6,2024-08-18,Cleared
-CONT327369,15.2,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,AU,DEL,CH,8471,COSCO,126917.14,16089.46,15052.03,45.26,2024-11-10,Cleared
-CONT134701,15.2,Low,Minor flags (weekend declaration); overall risk within acceptable range.,JP,DEL,GB,9013,HMM,48765.91,16500.83,16449.32,13.85,2024-12-22,Cleared
-CONT205682,15.2,Low,Minor flags (weekend declaration); overall risk within acceptable range.,AU,RTM,CH,6110,ONE,121669.68,9900.76,10287.08,5.36,2024-06-02,Cleared
-CONT870759,15.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NG,NYC,AU,8703,YML,186032.65,6758.25,6475.89,6.89,2024-12-22,Cleared
-CONT840970,15.0,Low,Minor flags (weekend declaration); overall risk within acceptable range.,US,SGP,DE,7108,ONE,34496.54,15947.74,15033.3,16.53,2024-12-29,Cleared
-CONT435914,14.6,Low,Minor flags (weekend declaration); overall risk within acceptable range.,PK,LAX,GB,6110,EVERGREEN,71543.33,1487.2,1556.47,20.73,2024-12-08,Cleared
-CONT719330,14.3,Low,Minor flags (weekend declaration); overall risk within acceptable range.,DE,HAM,FR,8542,YML,18729.05,19162.16,18518.28,19.62,2024-12-29,Cleared
-CONT368733,14.3,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SO,HAM,FR,8542,HMM,71710.99,6161.03,6068.19,22.92,2024-10-20,Cleared
-CONT345847,14.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,AU,SHA,CA,2933,MSC,107588.33,19365.82,18269.21,34.26,2024-08-04,Cleared
-CONT760482,14.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,AU,LAX,AU,8542,CMA CGM,145500.63,11094.05,11494.98,6.74,2024-04-20,Cleared
-CONT348018,14.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,AU,HAM,AU,3004,HAPAG,26958.8,10849.59,10644.02,45.1,2024-10-13,Cleared
-CONT888245,14.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CH,DEL,SG,8471,HMM,124390.34,9532.61,9585.71,13.38,2024-12-21,Pending
-CONT697202,14.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,PK,MUM,CH,8517,COSCO,181467.57,6242.64,6489.59,39.99,2024-10-06,Cleared
-CONT568379,14.0,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CH,RTM,AU,3004,HAPAG,121719.78,15903.7,15131.35,22.22,2024-08-11,Pending
-CONT760501,14.0,Low,Minor flags (weekend declaration); overall risk within acceptable range.,JP,DEL,JP,8517,MSC,134380.62,12772.07,12434.2,40.8,2024-09-15,Cleared
-CONT398113,13.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CH,HAM,DE,8471,EVERGREEN,106463.11,17330.56,17248.91,46.91,2024-12-15,Pending
-CONT221897,13.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NG,MUM,US,3004,HAPAG,162637.0,12173.78,12546.15,30.91,2024-12-01,Cleared
-CONT907827,13.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,IQ,DXB,AU,9013,CMA CGM,179317.03,17861.07,18211.3,18.78,2024-06-30,Cleared
-CONT586084,13.8,Low,Minor flags (weekend declaration); overall risk within acceptable range.,DE,SGP,JP,7108,HAPAG,138027.38,13777.64,13751.84,17.87,2024-12-29,Cleared
-CONT191911,13.8,Low,Minor flags (weekend declaration); overall risk within acceptable range.,IQ,SHA,SG,6110,ONE,62320.07,4790.6,4888.52,14.43,2024-11-10,Pending
-CONT321552,13.7,Low,Minor flags (weekend declaration); overall risk within acceptable range.,PK,SGP,AU,8471,EVERGREEN,129349.21,12652.54,12917.34,14.65,2024-09-01,Cleared
-CONT297097,13.7,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CA,HAM,GB,8542,HAPAG,182104.56,15249.58,14984.67,37.38,2024-09-01,Cleared
-CONT846716,13.7,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,SD,HAM,SG,7108,MSC,198981.12,19968.06,18901.49,46.53,2024-02-11,Cleared
-CONT270521,13.6,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,DE,HKG,FR,9013,ONE,127410.36,7307.74,7236.84,32.49,2024-08-25,Cleared
-CONT925626,13.6,Low,Minor flags (weekend declaration); overall risk within acceptable range.,AU,MUM,FR,2710,PIL,111553.91,5464.49,5610.46,46.55,2024-12-01,Cleared
-CONT618420,13.5,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,GB,DEL,AU,2933,CMA CGM,167402.22,18858.7,19228.99,19.95,2024-05-12,Pending
-CONT245342,13.4,Low,Minor flags (weekend declaration); overall risk within acceptable range.,AU,LAX,SG,9013,HMM,62572.15,1623.38,1556.12,42.7,2024-07-07,Cleared
-CONT289977,13.3,Low,Minor flags (weekend declaration); overall risk within acceptable range.,DE,SHA,CA,2710,EVERGREEN,95052.26,6136.62,6150.41,17.84,2024-07-28,Cleared
-CONT262357,13.3,Low,Minor flags (weekend declaration); overall risk within acceptable range.,FR,MUM,AU,7108,ONE,30307.68,3376.69,3480.43,28.5,2024-06-09,Pending
-CONT384186,13.3,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,IQ,MUM,GB,6110,HAPAG,140268.03,16101.38,15743.99,13.71,2024-07-13,Cleared
-CONT673458,13.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SD,MUM,US,8542,MSC,125178.59,19237.39,18176.35,28.5,2024-07-13,Cleared
-CONT589066,13.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,JP,HAM,SG,2933,ONE,169733.94,6236.63,6036.58,15.8,2024-03-24,Cleared
-CONT994230,13.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,FR,NYC,CH,9013,MSC,60615.13,2890.4,3029.01,31.75,2024-09-07,Cleared
-CONT862832,13.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NL,DEL,SG,8471,HAPAG,142267.65,4169.76,4257.71,45.61,2024-08-10,Cleared
-CONT673156,13.1,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,SG,SHA,SG,7108,MSC,83453.79,4389.08,4334.28,42.47,2024-12-01,Cleared
-CONT278376,13.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,US,DXB,DE,2933,MAERSK,169098.28,6128.31,5901.82,41.24,2024-06-02,Pending
-CONT913560,12.9,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,AU,SGP,CA,2933,MAERSK,157223.18,11345.44,11062.79,29.69,2024-09-29,Pending
-CONT949649,12.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SG,LAX,CA,3004,HAPAG,163563.79,6313.09,6391.72,15.33,2024-12-07,Cleared
-CONT737031,12.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SD,DXB,JP,8517,ONE,27003.91,18209.38,18019.72,42.28,2024-08-17,Cleared
-CONT626750,12.7,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,JP,RTM,US,8703,HMM,79293.3,5203.54,5126.61,39.57,2024-09-01,Cleared
-CONT893853,12.7,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CA,SHA,NL,6110,ONE,111606.0,1449.13,1502.37,14.21,2024-09-14,Cleared
-CONT145833,12.7,Low,Minor flags (weekend declaration); overall risk within acceptable range.,FR,RTM,JP,8517,HAPAG,118525.73,4606.49,4429.58,13.0,2024-04-07,Cleared
-CONT702801,12.7,Low,Minor flags (weekend declaration); overall risk within acceptable range.,GB,DXB,CA,2933,HMM,46860.23,14788.79,15420.77,33.26,2024-08-31,Cleared
-CONT337474,12.7,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,PK,HKG,SG,3004,HAPAG,61402.56,5377.35,5297.79,20.25,2024-06-22,Cleared
-CONT570076,12.6,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CA,NYC,GB,8703,MAERSK,174910.05,12476.09,12140.74,47.95,2024-05-26,Cleared
-CONT282958,12.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,NYC,FR,8471,HAPAG,142821.56,9186.86,9365.71,11.35,2024-07-22,Cleared
-CONT276037,12.5,Low,Minor flags (weekend declaration); overall risk within acceptable range.,JP,MUM,FR,3004,ONE,128345.4,15744.0,16526.63,20.41,2024-02-10,Cleared
-CONT907221,12.4,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NG,MUM,CH,2933,HAPAG,190531.74,15486.49,15373.42,11.72,2024-05-11,Cleared
-CONT479989,12.4,Low,Minor flags (weekend declaration); overall risk within acceptable range.,GB,DEL,JP,2710,CMA CGM,45209.53,8855.85,9178.59,42.57,2024-03-02,Cleared
-CONT718636,12.4,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NL,HKG,FR,8471,HAPAG,67529.24,18372.47,18620.77,28.3,2024-09-21,Cleared
-CONT952224,12.2,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,IQ,HAM,NL,2710,MSC,71498.93,11541.69,11451.06,46.32,2024-06-08,Cleared
-CONT285784,12.2,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CA,SHA,CH,9013,ONE,155703.82,3343.05,3173.71,39.34,2024-10-19,Cleared
-CONT741000,12.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NL,SGP,US,8517,CMA CGM,75136.73,15776.83,15824.96,34.24,2024-09-14,Cleared
-CONT898009,12.1,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,PK,DXB,AU,2710,ONE,88083.84,13007.78,13048.35,28.11,2024-07-27,Cleared
-CONT560829,12.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,JP,DEL,CA,8542,YML,136914.33,7162.26,7196.61,30.15,2024-03-24,Cleared
-CONT400763,12.0,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SG,SGP,CH,8471,PIL,38032.32,15052.81,14251.84,31.32,2024-05-26,Cleared
-CONT405442,12.0,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,PK,HKG,GB,2933,MSC,7515.01,5835.15,5797.65,27.77,2024-05-12,Pending
-CONT255489,12.0,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CH,HAM,DE,2933,HAPAG,91296.38,5719.29,5615.34,32.57,2024-03-03,Pending
-CONT139236,11.9,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,GB,HAM,DE,2933,PIL,96967.14,15820.91,16020.33,14.01,2024-02-24,Cleared
-CONT568298,11.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SO,HAM,AU,8471,YML,11437.33,6698.83,6689.21,45.97,2024-08-03,Cleared
-CONT552372,11.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,NG,SHA,SG,3004,CMA CGM,59175.3,1843.37,1851.29,39.93,2024-11-02,Cleared
-CONT537651,11.8,Low,Minor flags (weekend declaration); overall risk within acceptable range.,US,SHA,DE,9013,HAPAG,142502.13,4407.76,4408.54,24.03,2024-04-21,Cleared
-CONT562326,11.8,Low,Minor flags (weekend declaration); overall risk within acceptable range.,JP,DXB,JP,3004,PIL,143209.3,2955.98,2958.84,14.95,2024-07-20,Cleared
-CONT281871,11.7,Low,Minor flags (weekend declaration); overall risk within acceptable range.,US,MUM,FR,2710,HMM,143083.76,14377.58,14302.82,24.93,2024-02-24,Cleared
-CONT151663,11.6,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SG,SGP,CA,7108,CMA CGM,164204.22,9935.71,9922.18,39.13,2024-12-14,Cleared
-CONT768179,11.6,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SG,SGP,FR,8703,YML,195722.05,15952.43,15807.68,38.94,2024-06-02,Cleared
-CONT777758,11.6,Low,Minor flags (weekend declaration); overall risk within acceptable range.,DE,LAX,NL,6110,MAERSK,56808.69,11727.29,11837.86,43.42,2024-05-11,Cleared
-CONT854122,11.4,Low,Minor flags (weekend declaration); overall risk within acceptable range.,DE,SGP,AU,8703,CMA CGM,189733.34,18768.83,18356.74,31.51,2024-03-24,Cleared
-CONT505105,11.3,Low,Minor flags (weekend declaration); overall risk within acceptable range.,PK,RTM,SG,2710,YML,174925.74,6510.87,6623.22,33.6,2024-09-28,Cleared
-CONT837266,11.2,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,SD,DXB,CH,7108,EVERGREEN,63251.49,16802.24,16873.26,45.39,2024-03-09,Cleared
-CONT547628,11.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SD,HAM,US,9013,ONE,113394.81,4261.89,4338.63,34.78,2024-05-25,Cleared
-CONT790504,11.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CA,SGP,NL,2933,MSC,105358.23,2569.74,2514.97,43.55,2024-02-18,Cleared
-CONT943890,11.1,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,SG,SGP,DE,8542,YML,18881.79,18201.66,18355.1,18.03,2024-04-14,Cleared
-CONT365470,10.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,SD,LAX,CH,6110,PIL,66890.83,2213.72,2266.99,13.69,2024-03-16,Cleared
-CONT655710,10.9,Low,Minor flags (weekend declaration); overall risk within acceptable range.,AU,NYC,AU,8471,EVERGREEN,17067.71,1118.89,1106.87,27.56,2024-03-03,Cleared
-CONT195071,10.8,Low,Minor flags (weekend declaration); overall risk within acceptable range.,PK,HAM,GB,7108,YML,11719.95,2097.08,2074.33,46.66,2024-03-10,Pending
-CONT888260,10.7,Low,Minor flags (weekend declaration); overall risk within acceptable range.,FR,RTM,CA,8471,ONE,103984.02,4553.83,4449.56,14.67,2024-05-18,Cleared
-CONT573146,10.6,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,GB,SGP,SG,8542,MSC,114016.56,19946.46,19997.74,18.13,2024-03-02,Cleared
-CONT161844,10.4,Low,Minor flags (weekend declaration); overall risk within acceptable range.,JP,HAM,FR,7108,YML,73844.83,6367.43,6185.2,43.34,2024-05-11,Pending
-CONT644653,10.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,PK,RTM,DE,2933,ONE,26138.07,7871.66,7893.61,42.54,2024-04-27,Cleared
-CONT975352,10.1,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CH,SGP,CH,8542,MSC,63901.8,5857.25,5868.45,36.21,2024-05-25,Pending
-CONT790091,9.8,Low,Minor flags (weekend declaration); overall risk within acceptable range.,CA,SHA,CA,8542,ONE,110142.79,6108.37,6124.21,46.63,2024-02-03,Cleared
-CONT139986,9.8,Low,Minor flags (weekend declaration; transit shipment); overall risk within acceptable range.,SG,MUM,JP,8517,YML,103574.04,4726.15,4723.61,30.18,2024-04-06,Cleared
-CONT625128,9.2,Low,Minor flags (declared during off-hours); overall risk within acceptable range.,YE,SHA,US,8703,COSCO,1119.5,10966.11,10354.97,1.13,2024-02-19,Under Review
-CONT186988,9.1,Low,Minor flags (above-average dwell time (78 hrs); declared during off-hours); overall risk within acceptable range.,LY,MUM,FR,2710,YML,808.11,14008.05,13116.61,78.24,2024-03-21,Flagged
-CONT390693,7.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,NYC,NL,8471,HAPAG,119532.82,10848.06,11111.83,11.67,2024-06-10,Pending
-CONT958823,6.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,FR,DEL,CA,8703,MAERSK,47648.41,6294.22,6237.6,12.04,2024-09-03,Cleared
-CONT889948,5.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,RTM,GB,7108,MAERSK,20446.56,10909.47,11327.94,6.07,2024-10-22,Cleared
-CONT302435,5.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,MUM,NL,8517,HAPAG,165784.29,2298.48,2181.24,7.27,2024-03-08,Cleared
-CONT497686,5.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,DXB,CH,8471,HAPAG,29519.59,11112.65,10648.59,9.84,2024-01-08,Cleared
-CONT656701,5.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,DXB,SG,2933,EVERGREEN,148828.55,15597.19,14810.24,14.51,2024-11-19,Cleared
-CONT942393,5.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,LAX,GB,3004,HAPAG,83497.26,10736.7,11016.84,13.59,2024-01-29,Cleared
-CONT241554,4.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,DEL,DE,6110,MSC,166112.39,8715.56,8509.97,14.02,2024-09-05,Cleared
-CONT641357,4.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,DEL,NL,7108,PIL,101809.92,14830.85,14044.02,23.22,2024-11-11,Cleared
-CONT646237,4.7,Low,Minor flags (transit shipment); overall risk within acceptable range.,CH,MUM,GB,3004,HAPAG,52011.54,8179.16,8268.1,13.02,2024-10-14,Cleared
-CONT218012,4.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,DXB,JP,2933,MSC,163690.03,19513.5,18393.79,34.13,2024-03-22,Cleared
-CONT238155,4.6,Low,Minor flags (transit shipment); overall risk within acceptable range.,AU,HAM,FR,8703,ONE,126709.04,6093.21,5928.6,22.01,2024-12-20,Cleared
-CONT275885,4.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,DEL,CA,8517,MAERSK,189646.07,1590.29,1642.73,14.59,2024-10-18,Cleared
-CONT631740,4.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,DXB,DE,7108,EVERGREEN,39056.2,11414.76,11526.2,17.02,2024-01-15,Cleared
-CONT441396,4.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,DXB,CA,2933,MSC,12969.38,4653.49,4462.01,11.43,2024-11-21,Cleared
-CONT962522,4.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,DXB,SG,2933,HAPAG,78860.66,11724.71,11803.27,18.85,2024-12-30,Pending
-CONT955684,4.4,Low,Minor flags (transit shipment); overall risk within acceptable range.,CA,DXB,CA,8703,EVERGREEN,76713.07,9095.58,8722.61,22.22,2024-07-01,Cleared
-CONT738273,4.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,DEL,NL,8542,COSCO,13774.38,5155.56,5321.5,36.3,2024-01-12,Cleared
-CONT137310,4.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,GB,DEL,JP,3004,EVERGREEN,20612.36,8064.9,7907.56,24.88,2024-08-15,Cleared
-CONT245338,4.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,MUM,CA,2710,EVERGREEN,118705.62,17491.61,16389.71,35.59,2024-07-19,Cleared
-CONT164373,4.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,DEL,AU,7108,HAPAG,90468.23,7321.11,7084.63,15.56,2024-04-09,Cleared
-CONT141505,4.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AU,DEL,US,8517,ONE,81658.75,6140.63,6324.2,10.13,2024-03-19,Cleared
-CONT827955,4.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,LAX,GB,7108,HAPAG,81469.49,16962.31,16994.68,11.9,2024-12-17,Cleared
-CONT869606,4.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,DXB,AU,2710,HMM,18721.78,12146.28,12691.86,31.77,2024-12-27,Pending
-CONT807548,4.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,LAX,DE,3004,CMA CGM,28796.84,15757.75,15002.46,30.15,2024-11-11,Pending
-CONT707745,4.2,Low,Minor flags (transit shipment); overall risk within acceptable range.,US,DEL,FR,8517,CMA CGM,20936.44,11327.23,11723.02,24.17,2024-01-22,Cleared
-CONT781652,4.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,HKG,NL,3004,CMA CGM,52830.68,14944.29,15438.19,10.92,2024-06-18,Cleared
-CONT243029,4.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,RTM,GB,6110,ONE,177621.58,1654.19,1719.26,7.82,2024-10-10,Cleared
-CONT475903,4.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,DXB,SG,8471,MAERSK,156061.22,3518.91,3510.03,15.65,2024-09-18,Pending
-CONT134924,4.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,JP,DXB,FR,8542,MAERSK,157141.47,7741.81,8077.89,28.81,2024-11-08,Cleared
-CONT189846,4.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,DXB,AU,8471,PIL,172133.9,17853.81,17370.36,39.95,2024-01-12,Cleared
-CONT949881,4.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,MUM,CA,8542,PIL,92495.26,8527.28,8300.84,14.45,2024-09-23,Cleared
-CONT854651,4.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,MUM,CH,2933,ONE,181984.15,8496.95,8037.31,35.42,2024-09-06,Cleared
-CONT608062,4.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,DXB,FR,7108,YML,86587.96,2549.0,2444.26,12.96,2024-01-24,Cleared
-CONT735232,4.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,GB,DEL,FR,9013,HMM,117785.45,14762.44,15481.4,16.06,2024-06-12,Cleared
-CONT942503,4.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,LAX,AU,8517,MAERSK,61544.17,9800.28,9574.78,28.78,2024-01-12,Cleared
-CONT903940,4.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,FR,DEL,US,2710,MSC,25546.16,19354.9,18742.1,38.4,2024-10-30,Cleared
-CONT480714,4.0,Low,Minor flags (transit shipment); overall risk within acceptable range.,SD,MUM,SG,9013,MAERSK,130302.63,17750.7,18381.29,7.46,2024-05-29,Cleared
-CONT664984,4.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AU,DXB,FR,8703,ONE,122650.17,13891.33,13481.63,39.27,2024-02-02,Cleared
-CONT794489,4.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,DEL,AU,9013,ONE,78577.02,18288.92,17721.54,46.42,2024-11-11,Cleared
-CONT263384,4.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,DEL,SG,9013,EVERGREEN,45464.74,14558.54,15119.06,29.03,2024-10-24,Pending
-CONT562120,4.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,GB,SHA,SG,8471,PIL,78014.9,18456.26,19123.44,7.03,2024-08-01,Cleared
-CONT583157,4.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,LAX,CA,8517,MAERSK,83543.18,11018.91,10722.61,29.91,2024-12-03,Cleared
-CONT715324,3.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,LAX,CH,3004,MSC,72763.88,18874.69,18623.19,23.16,2024-01-11,Cleared
-CONT919812,3.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,DXB,SG,7108,HAPAG,37926.57,18046.54,17267.86,26.31,2024-06-24,Cleared
-CONT478336,3.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,DXB,US,9013,CMA CGM,161281.93,6339.95,6260.79,21.25,2024-08-08,Cleared
-CONT779249,3.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,DEL,GB,6110,COSCO,183715.38,4158.36,4131.46,18.42,2024-02-16,Cleared
-CONT576182,3.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,RTM,SG,6110,CMA CGM,107793.93,11531.71,10796.93,36.31,2024-09-30,Cleared
-CONT598863,3.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,HAM,CA,3004,MSC,62581.66,5829.11,5564.2,18.19,2024-02-08,Cleared
-CONT762806,3.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,LAX,JP,8471,MAERSK,31421.43,14076.16,14346.21,23.69,2024-01-09,Cleared
-CONT441383,3.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,MUM,FR,8703,MSC,18983.82,13270.63,12708.22,22.02,2024-06-24,Cleared
-CONT679879,3.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,LAX,NL,6110,HMM,146818.04,18606.52,19370.38,18.37,2024-07-31,Cleared
-CONT973216,3.7,Low,Minor flags (transit shipment); overall risk within acceptable range.,DE,SHA,SG,6110,MSC,67510.68,5548.03,5293.86,9.94,2024-07-31,Cleared
-CONT885858,3.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,MUM,AU,3004,ONE,143471.46,5602.39,5406.42,33.34,2024-08-02,Cleared
-CONT204127,3.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,DEL,US,3004,EVERGREEN,32105.43,15019.73,14491.53,23.36,2024-06-19,Cleared
-CONT377749,3.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,SHA,CA,2710,ONE,20927.55,12288.59,12581.4,13.58,2024-09-18,Cleared
-CONT516460,3.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AU,MUM,US,8542,CMA CGM,70551.25,16827.12,16282.99,17.57,2024-02-21,Cleared
-CONT998760,3.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,SGP,CH,8471,MSC,116020.25,1937.64,1994.61,20.84,2024-08-12,Cleared
-CONT666118,3.6,Low,Minor flags (transit shipment); overall risk within acceptable range.,JP,NYC,JP,8703,COSCO,62040.7,8953.06,8649.54,18.62,2024-06-04,Cleared
-CONT529199,3.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,NYC,CH,8542,HAPAG,92376.67,13716.1,13474.69,25.47,2024-07-23,Cleared
-CONT361497,3.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,SGP,FR,3004,EVERGREEN,150905.4,13098.47,12546.15,13.9,2024-04-19,Cleared
-CONT882381,3.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,GB,DEL,FR,2933,HAPAG,141838.96,4608.79,4674.48,28.48,2024-11-04,Cleared
-CONT811851,3.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,DXB,US,8703,MAERSK,49886.13,17419.18,17532.55,25.96,2024-08-07,Cleared
-CONT779290,3.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,SGP,JP,2933,MSC,44317.33,16110.08,15237.78,11.2,2024-03-18,Cleared
-CONT523966,3.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,SHA,CA,8542,HAPAG,11565.49,5166.21,5155.13,13.44,2024-12-02,Cleared
-CONT172588,3.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,MUM,AU,8471,PIL,28767.79,8857.43,8482.89,11.97,2024-06-07,Cleared
-CONT590457,3.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,SHA,SG,9013,HAPAG,114332.05,13246.39,12740.08,25.17,2024-07-01,Pending
-CONT302646,3.5,Low,Minor flags (transit shipment); overall risk within acceptable range.,CH,HAM,AU,2933,ONE,151705.36,2566.23,2466.59,44.11,2024-10-14,Cleared
-CONT400821,3.5,Low,Minor flags (transit shipment); overall risk within acceptable range.,AF,HAM,SG,8542,ONE,58662.09,12381.21,12786.86,44.02,2024-12-10,Cleared
-CONT178222,3.5,Low,Minor flags (transit shipment); overall risk within acceptable range.,SD,LAX,NL,2710,MSC,174271.05,17681.51,16832.26,39.46,2024-06-11,Cleared
-CONT763270,3.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,NYC,US,8703,MSC,101131.63,11178.09,11539.77,24.76,2024-01-18,Cleared
-CONT887163,3.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,HKG,AU,2710,CMA CGM,15620.88,7242.6,7242.75,12.03,2024-04-15,Pending
-CONT974527,3.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,NYC,NL,8517,COSCO,51309.24,8260.35,8191.43,17.2,2024-01-15,Cleared
-CONT181816,3.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,MUM,DE,8471,HAPAG,189594.4,5854.37,5711.24,28.65,2024-09-04,Cleared
-CONT190715,3.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,DEL,GB,8517,MSC,159856.24,15370.77,15812.49,25.76,2024-05-17,Pending
-CONT416759,3.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,LAX,SG,8703,MAERSK,20186.4,17743.9,18251.96,35.1,2024-10-01,Pending
-CONT229350,3.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,NYC,NL,8471,PIL,27248.68,19468.1,18524.79,10.65,2024-03-26,Cleared
-CONT778173,3.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,SGP,JP,2710,MSC,18296.39,5437.78,5440.65,12.23,2024-01-22,Cleared
-CONT484096,3.4,Low,Minor flags (transit shipment); overall risk within acceptable range.,CA,SHA,CH,2933,MSC,12763.23,8856.81,9276.61,16.06,2024-02-05,Pending
-CONT979780,3.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,HAM,NL,2933,COSCO,65756.49,6260.53,6489.61,41.21,2024-07-19,Cleared
-CONT585450,3.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,LAX,DE,8703,CMA CGM,98608.96,16511.33,16716.26,22.5,2024-04-12,Cleared
-CONT465340,3.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,NYC,FR,8542,COSCO,182541.9,9567.3,9952.5,17.11,2024-05-17,Cleared
-CONT486821,3.4,Low,Minor flags (transit shipment); overall risk within acceptable range.,NL,RTM,GB,2710,MSC,146425.24,9333.69,9200.92,25.41,2024-10-21,Pending
-CONT645096,3.3,Low,Minor flags (transit shipment); overall risk within acceptable range.,NL,HKG,NL,9013,COSCO,154675.69,1994.75,2058.09,22.33,2024-06-14,Cleared
-CONT759993,3.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,RTM,NL,8471,MAERSK,77154.78,18682.21,18015.14,28.22,2024-02-23,Cleared
-CONT104922,3.3,Low,Minor flags (transit shipment); overall risk within acceptable range.,DE,LAX,CA,8703,YML,191805.97,11983.37,11452.58,26.14,2024-10-23,Cleared
-CONT511597,3.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,MUM,DE,2710,HAPAG,90555.21,18093.68,18477.95,29.41,2024-11-04,Cleared
-CONT583414,3.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,HKG,DE,8703,MSC,62067.74,13140.3,13091.03,28.0,2024-08-12,Cleared
-CONT930351,3.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,MUM,NL,3004,MSC,188104.3,19712.07,19425.82,23.92,2024-07-02,Cleared
-CONT495755,3.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,DXB,CH,8542,PIL,192861.91,13612.0,12821.21,28.65,2024-05-21,Pending
-CONT609452,3.2,Low,Minor flags (transit shipment); overall risk within acceptable range.,DE,HKG,JP,8703,EVERGREEN,96290.06,8499.95,8535.22,29.48,2024-11-08,Cleared
-CONT810386,3.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,DXB,US,8542,PIL,185660.44,16864.0,17112.51,22.46,2024-01-18,Cleared
-CONT868917,3.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,HAM,FR,2933,MSC,22953.06,2436.09,2429.99,30.36,2024-11-18,Cleared
-CONT610491,3.2,Low,Minor flags (transit shipment); overall risk within acceptable range.,NG,DXB,AU,2710,MSC,116049.47,11997.96,12248.95,42.21,2024-07-15,Cleared
-CONT592134,3.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,SHA,CH,8517,HAPAG,172382.03,14973.81,14874.5,14.23,2024-11-21,Cleared
-CONT293075,3.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,LAX,CH,2710,MAERSK,106164.17,7414.69,7378.81,34.93,2024-09-24,Cleared
-CONT651595,3.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,DXB,GB,9013,HAPAG,147350.34,16591.24,16070.43,19.74,2024-04-18,Cleared
-CONT793312,3.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,SGP,DE,8703,COSCO,163860.85,16839.24,16343.0,30.92,2024-12-20,Cleared
-CONT234794,3.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,SGP,CH,7108,YML,116743.23,6860.9,6757.44,18.31,2024-10-25,Cleared
-CONT144772,3.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,FR,DEL,US,9013,CMA CGM,180873.64,4397.98,4552.81,21.48,2024-03-04,Cleared
-CONT250594,3.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,HAM,GB,9013,COSCO,54558.72,12345.22,11792.08,40.31,2024-04-22,Cleared
-CONT777775,3.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,MUM,CA,7108,CMA CGM,71604.83,7600.85,7686.5,27.64,2024-01-08,Cleared
-CONT613758,3.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,PK,RTM,CH,9013,MSC,170971.65,17207.18,16770.05,17.94,2024-02-23,Cleared
-CONT257661,3.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,HKG,DE,2933,HMM,89483.12,13378.87,13736.38,47.31,2024-11-15,Cleared
-CONT101095,3.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,DXB,JP,9013,MSC,22077.04,16392.66,16372.83,31.89,2024-09-26,Pending
-CONT965363,3.0,Low,Minor flags (transit shipment); overall risk within acceptable range.,DE,HAM,SG,2710,HMM,79848.58,3175.27,3024.36,24.07,2024-04-22,Cleared
-CONT902207,3.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,HAM,CH,2710,PIL,45519.14,8616.76,8885.98,39.15,2024-10-14,Cleared
-CONT742710,3.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,NYC,FR,3004,COSCO,152507.96,4496.85,4689.31,24.86,2024-08-08,Cleared
-CONT198064,3.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,SHA,SG,6110,YML,154761.06,19718.32,19306.68,23.11,2024-12-17,Cleared
-CONT937860,3.0,Low,Minor flags (transit shipment); overall risk within acceptable range.,AU,RTM,US,2710,YML,13804.52,3241.48,3399.27,23.27,2024-08-13,Cleared
-CONT649999,3.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,HKG,FR,7108,EVERGREEN,86109.06,13172.08,13719.43,37.4,2024-07-24,Cleared
-CONT474710,3.0,Low,Minor flags (transit shipment); overall risk within acceptable range.,SG,HAM,CH,6110,HMM,67976.51,14795.74,14802.46,38.99,2024-12-11,Cleared
-CONT450068,3.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,DXB,CH,2933,MAERSK,170574.11,2019.06,2006.72,20.87,2024-06-26,Cleared
-CONT563930,3.0,Low,Minor flags (transit shipment); overall risk within acceptable range.,SO,NYC,CA,9013,COSCO,134151.18,7247.63,7439.54,37.08,2024-11-22,Cleared
-CONT883924,3.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,HAM,SG,8471,MSC,109285.9,7869.26,7653.89,47.83,2024-07-16,Cleared
-CONT479039,3.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,NYC,NL,3004,HMM,63461.1,1025.72,1003.59,32.44,2024-11-26,Pending
-CONT349836,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,DEL,AU,7108,HMM,144319.64,14722.11,14803.43,23.56,2024-03-06,Cleared
-CONT717075,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,SHA,NL,8703,HMM,74478.08,3319.67,3151.93,43.9,2024-08-20,Cleared
-CONT274750,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,DEL,JP,8703,CMA CGM,22896.63,1411.27,1388.71,33.96,2024-04-12,Pending
-CONT425137,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,GB,DEL,US,2933,EVERGREEN,157136.91,8262.79,8056.11,47.9,2024-04-22,Cleared
-CONT693411,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,RTM,CA,2710,HAPAG,142286.13,8811.74,8962.51,13.57,2024-05-31,Cleared
-CONT330168,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,DEL,CH,2710,YML,102556.65,5094.74,5205.5,22.27,2024-03-18,Cleared
-CONT317770,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,HAM,CA,8542,MSC,127185.54,17968.71,18288.68,44.76,2024-11-18,Cleared
-CONT695597,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,DXB,US,6110,EVERGREEN,153755.34,13930.77,14077.86,37.67,2024-01-09,Cleared
-CONT153352,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,MUM,US,2933,MSC,81922.87,8141.88,8086.98,24.22,2024-07-10,Cleared
-CONT243435,2.9,Low,Minor flags (transit shipment); overall risk within acceptable range.,NL,DXB,AU,2710,ONE,73375.32,4548.68,4617.53,20.58,2024-06-06,Cleared
-CONT790658,2.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,DXB,JP,8517,COSCO,32143.61,10107.73,10384.4,43.52,2024-01-25,Cleared
-CONT597163,2.8,Low,Minor flags (transit shipment); overall risk within acceptable range.,JP,LAX,DE,6110,HAPAG,144924.47,5663.63,5912.86,38.18,2024-11-28,Cleared
-CONT934799,2.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,SHA,SG,8471,MAERSK,127825.12,14823.7,14635.09,19.83,2024-06-28,Cleared
-CONT988943,2.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,SGP,CH,3004,EVERGREEN,14008.31,19616.27,19517.66,29.5,2024-11-08,Pending
-CONT657373,2.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AU,RTM,AU,3004,MSC,91718.99,8811.15,8653.5,29.37,2024-10-23,Pending
-CONT465208,2.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,HAM,AU,8471,YML,27776.8,6981.98,6850.89,16.02,2024-06-06,Cleared
-CONT681462,2.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,RTM,SG,2933,EVERGREEN,42861.76,6141.78,6368.82,24.88,2024-01-16,Cleared
-CONT224046,2.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,LAX,AU,3004,HMM,18833.48,1098.51,1059.52,21.46,2024-04-01,Cleared
-CONT308886,2.7,Low,Minor flags (transit shipment); overall risk within acceptable range.,CH,SGP,NL,2933,MSC,89733.54,6785.32,7032.06,42.26,2024-08-13,Cleared
-CONT267292,2.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,LAX,JP,8517,PIL,21950.38,19290.34,18310.43,31.86,2024-02-05,Cleared
-CONT423923,2.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,SGP,US,9013,HMM,78896.4,15162.56,14634.39,17.32,2024-02-22,Cleared
-CONT634003,2.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,SGP,CA,8471,MSC,158640.89,5883.9,6007.7,42.05,2024-08-13,Cleared
-CONT319123,2.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,HKG,AU,7108,EVERGREEN,151404.1,19936.98,19933.46,32.37,2024-12-04,Cleared
-CONT830892,2.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,RTM,AU,3004,HMM,175949.75,9109.52,9495.96,22.37,2024-05-20,Cleared
-CONT490300,2.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,NYC,US,3004,CMA CGM,194989.47,7122.95,7383.32,47.4,2024-09-17,Cleared
-CONT509064,2.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,LAX,FR,8703,ONE,11032.84,3880.1,4021.34,46.71,2024-10-31,Cleared
-CONT555433,2.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,RTM,JP,8703,HAPAG,77892.58,6383.92,6414.01,31.51,2024-12-13,Cleared
-CONT447236,2.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,HAM,SG,2933,EVERGREEN,88585.63,2885.36,2865.95,31.65,2024-09-12,Cleared
-CONT568011,2.6,Low,Minor flags (transit shipment); overall risk within acceptable range.,FR,LAX,US,2933,MAERSK,11807.75,1954.62,1990.23,28.25,2024-08-14,Cleared
-CONT486354,2.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,GB,LAX,US,3004,ONE,110449.3,1134.83,1118.41,33.8,2024-09-02,Cleared
-CONT720635,2.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,HAM,CA,9013,MSC,25044.52,3772.52,3578.11,29.12,2024-05-27,Cleared
-CONT650901,2.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,HAM,JP,8703,COSCO,96377.35,3478.58,3372.99,30.02,2024-06-13,Pending
-CONT188668,2.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,RTM,GB,8703,ONE,89746.21,7021.99,7133.28,38.05,2024-08-19,Cleared
-CONT401075,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,RTM,DE,9013,HAPAG,90917.61,7261.08,7061.72,41.71,2024-01-16,Cleared
-CONT722893,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,SHA,SG,3004,HMM,111083.23,7021.53,6947.81,31.99,2024-12-25,Cleared
-CONT842452,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,HKG,DE,3004,YML,15038.36,10550.9,10678.79,16.26,2024-06-20,Pending
-CONT429782,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,NYC,JP,2710,HMM,55250.65,10318.63,10714.43,42.94,2024-11-28,Cleared
-CONT893070,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,DXB,US,7108,MAERSK,181027.57,9404.96,9429.35,40.84,2024-02-13,Cleared
-CONT950185,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,DXB,JP,9013,HMM,7340.59,18490.18,18122.92,28.32,2024-04-29,Cleared
-CONT805356,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AU,HKG,DE,2710,MSC,154206.26,11688.55,11675.34,45.38,2024-07-26,Cleared
-CONT910830,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,SGP,US,6110,MSC,54408.98,15320.68,15165.19,43.38,2024-08-05,Cleared
-CONT619493,2.5,Low,Minor flags (transit shipment); overall risk within acceptable range.,US,HAM,CH,8542,HAPAG,105002.9,2470.82,2496.1,19.11,2024-02-22,Cleared
-CONT494030,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,HAM,AU,9013,YML,40411.55,7568.22,7353.13,43.97,2024-12-11,Cleared
-CONT307374,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,LAX,AU,3004,ONE,22720.92,1578.7,1607.61,41.61,2024-11-08,Cleared
-CONT363031,2.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,LAX,CA,2933,EVERGREEN,187323.91,8422.96,8330.35,22.94,2024-02-28,Pending
-CONT756166,2.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,MUM,CA,8517,YML,29265.32,8440.97,7995.64,46.08,2024-11-14,Cleared
-CONT287063,2.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,DXB,CH,8703,HMM,57316.0,15570.13,15316.74,30.0,2024-04-30,Cleared
-CONT962061,2.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,SHA,CH,3004,YML,25081.39,10140.67,10624.9,18.71,2024-06-10,Cleared
-CONT888089,2.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,SHA,SG,8703,MSC,165771.95,13871.32,14548.12,10.44,2024-04-17,Cleared
-CONT760197,2.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AU,RTM,GB,9013,YML,13107.9,5441.08,5621.26,25.92,2024-08-07,Cleared
-CONT773166,2.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,SHA,DE,8471,MSC,6952.03,17825.63,17969.33,42.83,2024-12-02,Cleared
-CONT386610,2.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,LAX,AU,2710,HAPAG,37035.93,6655.36,6447.19,38.46,2024-02-26,Cleared
-CONT971808,2.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,RTM,JP,8517,CMA CGM,137090.53,14471.26,14484.5,14.34,2024-04-01,Cleared
-CONT242429,2.3,Low,Minor flags (transit shipment); overall risk within acceptable range.,CA,DXB,SG,6110,MSC,82367.24,2199.47,2151.32,24.86,2024-04-02,Cleared
-CONT910927,2.3,Low,Minor flags (transit shipment); overall risk within acceptable range.,SO,SGP,CH,8703,COSCO,174637.88,11608.69,11987.38,20.35,2024-02-08,Cleared
-CONT664485,2.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,LAX,CA,8471,HAPAG,122126.96,10265.67,10396.33,36.72,2024-08-01,Cleared
-CONT844149,2.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,HAM,FR,2933,PIL,128464.52,16313.86,16030.5,45.86,2024-08-07,Cleared
-CONT715429,2.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,HKG,GB,6110,ONE,123533.25,11525.43,11606.46,21.75,2024-05-28,Cleared
-CONT199977,2.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,LAX,CH,2933,HAPAG,72319.84,15999.21,16178.86,22.22,2024-04-24,Cleared
-CONT468697,2.3,Low,Minor flags (transit shipment); overall risk within acceptable range.,NL,HAM,FR,9013,HMM,146858.03,14470.32,14645.85,38.61,2024-04-15,Cleared
-CONT331237,2.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,DEL,FR,7108,EVERGREEN,120483.17,19097.82,18903.83,34.84,2024-05-29,Cleared
-CONT892644,2.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,DEL,FR,8703,EVERGREEN,98013.42,15312.95,15751.24,32.26,2024-03-21,Cleared
-CONT111023,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,MUM,CH,6110,PIL,118941.29,12923.6,13080.46,43.65,2024-12-23,Cleared
-CONT432336,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,MUM,JP,8703,YML,65744.9,7653.54,7704.48,38.45,2024-10-28,Cleared
-CONT458105,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,SGP,CA,2710,PIL,20802.53,8408.1,8122.48,40.51,2024-01-16,Pending
-CONT734044,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,MUM,CH,2710,EVERGREEN,134290.3,11727.22,11207.61,33.88,2024-04-04,Pending
-CONT921860,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,RTM,US,6110,HAPAG,94981.87,16057.91,15421.0,36.16,2024-06-12,Cleared
-CONT220627,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,SGP,FR,2933,YML,146177.89,19419.39,18738.41,13.33,2024-04-10,Cleared
-CONT174567,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,RTM,FR,7108,YML,26642.95,18236.71,18604.67,23.67,2024-07-08,Cleared
-CONT737684,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,NYC,AU,8471,MAERSK,61381.66,1845.67,1850.12,23.86,2024-09-26,Cleared
-CONT368854,2.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,MUM,SG,8517,MSC,60991.9,8227.98,8255.94,38.89,2024-02-16,Cleared
-CONT577697,2.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,RTM,CH,8542,MAERSK,182028.51,5588.51,5526.39,26.31,2024-06-26,Cleared
-CONT784103,2.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,IQ,RTM,JP,3004,ONE,137033.29,10884.38,11085.93,38.25,2024-10-09,Cleared
-CONT164772,2.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,SGP,SG,8517,CMA CGM,78870.21,15338.07,15378.12,24.11,2024-06-05,Cleared
-CONT901151,2.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,RTM,AU,2710,CMA CGM,194374.43,8747.21,8866.22,28.74,2024-02-13,Cleared
-CONT975206,2.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,GB,SGP,FR,2710,YML,96835.26,12460.65,11836.64,25.66,2024-04-15,Cleared
-CONT931588,2.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,DXB,NL,8703,YML,9942.98,13993.53,13851.98,34.36,2024-06-24,Cleared
-CONT873815,2.0,Low,Minor flags (transit shipment); overall risk within acceptable range.,SD,NYC,US,3004,YML,73571.73,19269.46,18936.56,44.02,2024-11-14,Cleared
-CONT878760,2.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,RTM,SG,6110,MAERSK,63729.24,3585.07,3555.38,14.95,2024-04-30,Cleared
-CONT499384,2.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,RTM,GB,2933,HAPAG,22394.84,4463.39,4622.68,27.55,2024-03-08,Cleared
-CONT892244,2.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AU,HAM,NL,9013,YML,176568.36,12052.71,11871.47,32.54,2024-06-26,Pending
-CONT430763,2.0,Low,Minor flags (transit shipment); overall risk within acceptable range.,AF,LAX,DE,8703,HMM,143796.7,14441.1,15046.3,43.53,2024-03-21,Cleared
-CONT334864,1.9,Low,Minor flags (transit shipment); overall risk within acceptable range.,SG,HKG,AU,6110,YML,77367.02,2300.72,2403.37,44.51,2024-10-10,Cleared
-CONT933032,1.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,HAM,AU,8471,MSC,191667.7,16782.21,16572.83,40.35,2024-04-08,Cleared
-CONT636114,1.9,Low,Minor flags (transit shipment); overall risk within acceptable range.,SD,NYC,CH,3004,ONE,86391.37,8512.95,8757.9,17.63,2024-03-07,Pending
-CONT433713,1.9,Low,Minor flags (transit shipment); overall risk within acceptable range.,SO,SGP,GB,2710,PIL,189682.68,11679.38,11862.46,25.84,2024-12-04,Cleared
-CONT809132,1.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,LAX,GB,8471,MAERSK,47550.47,4327.34,4184.24,42.46,2024-02-14,Cleared
-CONT413612,1.9,Low,Minor flags (transit shipment); overall risk within acceptable range.,FR,RTM,CH,8703,HMM,125020.74,1349.06,1382.7,37.17,2024-07-09,Cleared
-CONT924273,1.9,Low,Minor flags (transit shipment); overall risk within acceptable range.,NL,SHA,GB,6110,ONE,87576.83,11411.47,11198.29,29.01,2024-04-05,Cleared
-CONT992743,1.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,HKG,SG,8703,COSCO,27110.48,13612.04,13396.55,35.71,2024-02-01,Cleared
-CONT821001,1.9,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,RTM,DE,8703,HMM,30879.57,1630.86,1622.1,28.97,2024-10-31,Cleared
-CONT844822,1.9,Low,Minor flags (transit shipment); overall risk within acceptable range.,IQ,DXB,DE,8703,YML,19913.59,15759.26,15914.98,47.42,2024-01-11,Cleared
-CONT836983,1.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,GB,RTM,FR,8542,YML,197672.79,18445.95,18604.21,43.66,2024-08-13,Cleared
-CONT439119,1.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,DXB,AU,2710,MSC,72848.58,3697.47,3649.9,23.82,2024-05-29,Cleared
-CONT739665,1.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,LAX,DE,2933,HAPAG,50106.27,17851.9,17597.43,36.33,2024-04-04,Cleared
-CONT507124,1.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,LAX,CA,8542,PIL,132680.29,14413.82,14077.9,21.16,2024-05-16,Cleared
-CONT689738,1.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NL,DXB,CA,7108,PIL,92204.5,11522.24,11229.08,30.43,2024-05-22,Cleared
-CONT771256,1.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,HAM,SG,2933,PIL,162279.42,11296.12,11424.96,32.99,2024-03-29,Cleared
-CONT324793,1.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,MUM,AU,6110,PIL,91325.27,1141.8,1198.48,36.22,2024-12-17,Cleared
-CONT484865,1.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,SHA,CH,8517,HMM,149633.85,16423.29,16694.02,42.78,2024-01-10,Cleared
-CONT959734,1.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,NYC,CA,6110,HAPAG,13747.81,12709.52,12755.32,31.39,2024-05-28,Cleared
-CONT195257,1.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,NG,MUM,US,8471,YML,20943.01,1746.93,1773.9,42.44,2024-10-18,Pending
-CONT151567,1.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SG,HAM,DE,6110,YML,29033.25,18305.7,18301.83,17.54,2024-04-03,Pending
-CONT661669,1.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,SGP,AU,2710,HAPAG,29495.04,4957.28,4872.3,17.68,2024-05-01,Pending
-CONT329171,1.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,HKG,GB,9013,ONE,25517.81,13631.54,13863.32,33.57,2024-03-20,Cleared
-CONT324021,1.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,LAX,NL,2710,PIL,82163.05,17632.71,17798.3,35.47,2024-03-29,Cleared
-CONT372827,1.5,Low,Minor flags (transit shipment); overall risk within acceptable range.,IQ,DXB,US,8542,YML,107229.67,7873.6,7776.35,33.51,2024-04-22,Cleared
-CONT649633,1.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,LAX,JP,8703,PIL,45325.55,17067.2,16858.75,44.7,2024-05-31,Cleared
-CONT486721,1.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,GB,DXB,NL,2933,PIL,30646.06,9643.46,9392.96,41.71,2024-05-13,Cleared
-CONT145740,1.4,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,SGP,DE,6110,COSCO,16252.07,1619.74,1544.63,23.55,2024-04-25,Cleared
-CONT778832,1.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,SHA,SG,9013,MAERSK,165900.78,18676.06,19129.29,25.8,2024-03-19,Cleared
-CONT934569,1.3,Low,Minor flags (transit shipment); overall risk within acceptable range.,PK,NYC,DE,8471,CMA CGM,195956.34,10861.41,10646.15,34.64,2024-04-01,Cleared
-CONT860084,1.3,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,HKG,CH,8703,MSC,31183.6,1148.99,1120.2,46.15,2024-02-15,Cleared
-CONT357354,1.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,HKG,DE,2933,ONE,191769.01,15201.44,14884.47,45.48,2024-05-22,Cleared
-CONT889622,1.2,Low,All shipment parameters within normal ranges. Standard clearance applicable.,IQ,NYC,AU,7108,PIL,130891.2,19007.62,19311.75,43.25,2024-03-26,Cleared
-CONT925992,1.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,SHA,CH,7108,CMA CGM,75292.53,8542.85,8666.33,33.54,2024-04-15,Cleared
-CONT723094,1.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,JP,SHA,CH,2933,PIL,79670.74,12234.66,12402.72,46.76,2024-09-11,Cleared
-CONT656718,1.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,CH,MUM,US,8703,HMM,58866.28,6987.79,6979.16,47.19,2024-02-21,Cleared
-CONT573196,1.1,Low,Minor flags (transit shipment); overall risk within acceptable range.,JP,SHA,US,8703,MSC,160345.75,1259.57,1266.27,18.87,2024-05-08,Cleared
-CONT521655,1.1,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CH,HKG,DE,3004,PIL,193781.89,15319.93,15340.82,38.3,2024-06-03,Cleared
-CONT137067,1.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,US,SHA,SG,8542,ONE,168478.82,1820.24,1759.93,32.79,2024-02-22,Cleared
-CONT205686,1.0,Low,Minor flags (transit shipment); overall risk within acceptable range.,SO,RTM,FR,2710,MAERSK,121371.4,14122.92,14249.93,26.07,2024-03-28,Pending
-CONT346301,1.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,FR,RTM,JP,8542,MSC,195600.45,3579.17,3599.51,46.43,2024-04-23,Cleared
-CONT880298,1.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,CA,SHA,SG,9013,YML,21145.74,15022.64,15499.06,30.54,2024-06-12,Cleared
-CONT244375,0.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,SGP,JP,8471,MAERSK,58644.28,14496.68,14637.73,32.12,2024-03-04,Cleared
-CONT693453,0.8,Low,All shipment parameters within normal ranges. Standard clearance applicable.,DE,RTM,DE,3004,ONE,26971.34,8084.65,8015.47,29.38,2024-03-07,Cleared
-CONT408444,0.8,Low,Minor flags (transit shipment); overall risk within acceptable range.,NG,SGP,SG,8471,HMM,90543.52,3040.87,3081.22,27.79,2024-03-13,Pending
-CONT698357,0.7,Low,All shipment parameters within normal ranges. Standard clearance applicable.,PK,SHA,CH,8517,YML,110302.32,2284.64,2242.02,42.72,2024-11-21,Cleared
-CONT258763,0.6,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SO,HAM,CA,7108,PIL,157363.02,6890.0,6840.2,46.25,2024-05-16,Cleared
-CONT570529,0.5,Low,All shipment parameters within normal ranges. Standard clearance applicable.,AF,RTM,FR,9013,CMA CGM,124451.83,1192.49,1217.83,42.44,2024-04-02,Cleared
-CONT409799,0.0,Low,All shipment parameters within normal ranges. Standard clearance applicable.,SD,SHA,DE,8471,YML,113041.38,9498.19,9573.48,44.96,2024-02-07,Cleared
+CONT381383,49.3,Medium,Minor flags (weight is 11% higher than declared; above-average dwell (107 hrs)); risk within acceptable range.,SY,DEL,US,3004,HMM,1420727.65,11962.45,13259.92,106.86,2024-06-25,Flagged
+CONT721827,48.6,Medium,Minor flags (weight is 10% higher than declared; above-average dwell (82 hrs)); risk within acceptable range.,SY,MUM,US,8471,COSCO,1420566.93,7526.72,8286.74,81.55,2024-09-16,Flagged
+CONT428947,47.9,Medium,Minor flags (above-average dwell (119 hrs); off-hours declaration); risk within acceptable range.,LY,RTM,AU,6110,EVERGREEN,859.74,8108.97,8712.75,118.89,2024-11-15,Flagged
+CONT447220,47.8,Medium,Minor flags (off-hours declaration); risk within acceptable range.,LY,RTM,CA,2710,COSCO,1554538.83,13999.64,12924.24,0.19,2024-11-12,Under Review
+CONT761616,47.5,Medium,Minor flags (off-hours declaration); risk within acceptable range.,LY,LAX,AU,7108,HMM,1591.3,9729.11,8965.64,0.39,2024-07-01,Flagged
+CONT338178,47.4,Medium,Minor flags (off-hours declaration; transit shipment); risk within acceptable range.,KP,LAX,FR,9013,ONE,1668.52,10249.05,9355.67,0.4,2024-12-12,Under Review
+CONT876676,46.6,Medium,Minor flags (off-hours declaration); risk within acceptable range.,VE,HAM,CH,6110,HMM,496841.73,14478.25,15425.11,0.32,2024-05-01,Flagged
+CONT643803,43.6,Medium,All parameters normal. Standard clearance applicable.,AF,DXB,AU,8517,ONE,28100.03,12676.28,12667.51,4.6,2024-10-22,Cleared
+CONT213632,43.0,Medium,All parameters normal. Standard clearance applicable.,CA,DXB,FR,3004,COSCO,10947.55,12225.83,12407.38,5.64,2024-09-20,Cleared
+CONT396208,42.9,Medium,All parameters normal. Standard clearance applicable.,AU,DXB,DE,8517,YML,7540.77,5065.18,5382.7,4.62,2024-04-16,Cleared
+CONT794119,42.7,Medium,Minor flags (above-average dwell (98 hrs); off-hours declaration); risk within acceptable range.,SD,SGP,NL,2933,MSC,1330.77,13297.12,12736.96,98.04,2024-10-18,Flagged
+CONT552558,42.0,Medium,All parameters normal. Standard clearance applicable.,US,DXB,FR,2710,MSC,35897.37,3111.87,3082.58,6.74,2024-05-24,Cleared
+CONT555968,41.9,Medium,Minor flags (transit shipment); risk within acceptable range.,SD,DXB,GB,3004,HAPAG,97463.9,14369.5,14560.07,8.3,2024-09-10,Cleared
+CONT728474,41.9,Medium,All parameters normal. Standard clearance applicable.,CA,RTM,NL,9013,HAPAG,172218.47,5723.49,5762.26,8.28,2024-11-27,Cleared
+CONT531374,41.8,Medium,All parameters normal. Standard clearance applicable.,NG,MUM,DE,2933,EVERGREEN,46555.42,8777.35,8713.82,5.37,2024-07-26,Cleared
+CONT569164,41.8,Medium,All parameters normal. Standard clearance applicable.,CA,DEL,GB,3004,COSCO,61982.55,17308.49,18295.01,44.07,2024-11-22,Cleared
+CONT327579,41.8,Medium,All parameters normal. Standard clearance applicable.,NG,MUM,CH,9013,PIL,110889.18,7455.63,7890.15,19.26,2024-12-20,Cleared
+CONT758981,41.7,Medium,All parameters normal. Standard clearance applicable.,NG,LAX,US,2710,ONE,52063.19,17447.26,17775.2,7.46,2024-04-09,Cleared
+CONT305603,41.4,Medium,All parameters normal. Standard clearance applicable.,DE,HKG,DE,2933,MSC,92263.06,5952.83,5930.03,8.48,2024-11-14,Cleared
+CONT988097,41.4,Medium,All parameters normal. Standard clearance applicable.,SO,SHA,AU,7108,MAERSK,77160.21,1233.88,1242.52,5.21,2024-06-04,Cleared
+CONT898022,41.4,Medium,Minor flags (transit shipment); risk within acceptable range.,SD,RTM,SG,8471,EVERGREEN,6728.34,19191.51,17498.6,47.9,2024-01-30,Cleared
+CONT131598,41.2,Medium,All parameters normal. Standard clearance applicable.,NG,RTM,CA,8542,MAERSK,120907.19,17195.88,18238.16,20.88,2024-03-19,Cleared
+CONT319678,41.1,Medium,All parameters normal. Standard clearance applicable.,DE,DXB,CA,8542,COSCO,48141.37,14176.69,15058.67,33.79,2024-05-17,Cleared
+CONT347652,41.1,Medium,All parameters normal. Standard clearance applicable.,SD,LAX,FR,2710,MSC,161129.47,6117.83,6451.25,23.97,2024-06-07,Cleared
+CONT952756,41.0,Medium,All parameters normal. Standard clearance applicable.,FR,LAX,GB,8542,CMA CGM,76494.35,3974.06,4195.02,31.24,2024-12-03,Cleared
+CONT470134,40.9,Medium,All parameters normal. Standard clearance applicable.,NL,SHA,JP,7108,EVERGREEN,19652.88,6312.43,6375.85,9.9,2024-12-06,Cleared
+CONT291335,40.9,Medium,All parameters normal. Standard clearance applicable.,AF,HKG,GB,6110,MSC,91937.39,4485.26,4549.02,8.4,2024-05-31,Cleared
+CONT283163,40.7,Medium,All parameters normal. Standard clearance applicable.,SO,SHA,US,8517,HAPAG,187103.86,18717.29,19731.68,21.7,2024-01-24,Cleared
+CONT384334,40.6,Medium,All parameters normal. Standard clearance applicable.,SO,SHA,JP,2710,COSCO,117569.41,10354.18,10965.46,42.09,2024-08-26,Pending
+CONT967196,40.6,Medium,All parameters normal. Standard clearance applicable.,AU,DXB,CA,9013,HAPAG,150828.52,19682.81,20075.82,10.63,2024-04-05,Cleared
+CONT781509,40.1,Medium,All parameters normal. Standard clearance applicable.,NG,SGP,DE,9013,MAERSK,136209.98,9719.87,9918.75,7.57,2024-05-06,Pending
+CONT675644,39.9,Medium,All parameters normal. Standard clearance applicable.,CH,NYC,GB,6110,COSCO,159834.91,3646.17,3887.74,31.28,2024-02-07,Cleared
+CONT263639,39.6,Medium,Minor flags (transit shipment); risk within acceptable range.,CH,SHA,CA,9013,EVERGREEN,51617.94,17323.12,18388.4,37.35,2024-02-29,Cleared
+CONT453827,39.6,Medium,All parameters normal. Standard clearance applicable.,AF,NYC,FR,8542,EVERGREEN,166568.34,7721.99,8120.3,38.73,2024-04-19,Cleared
+CONT860330,39.3,Medium,Minor flags (transit shipment); risk within acceptable range.,JP,HAM,FR,6110,HMM,45363.75,4642.99,4937.22,41.46,2024-05-22,Cleared
+CONT938530,39.1,Medium,All parameters normal. Standard clearance applicable.,DE,DEL,CH,3004,HMM,127112.96,15459.46,15622.73,9.77,2024-02-15,Cleared
+CONT825155,38.6,Medium,All parameters normal. Standard clearance applicable.,GB,HAM,CA,3004,MAERSK,96003.22,7829.05,7802.09,6.32,2024-02-08,Cleared
+CONT713217,37.1,Medium,Minor flags (transit shipment); risk within acceptable range.,CH,DXB,CA,8471,PIL,19807.02,9733.95,9776.36,7.42,2024-01-12,Cleared
+CONT957033,36.8,Medium,All parameters normal. Standard clearance applicable.,SG,MUM,SG,8703,CMA CGM,171099.12,18285.13,18343.09,6.31,2024-12-18,Cleared
+CONT376393,33.9,Medium,All parameters normal. Standard clearance applicable.,NG,HAM,GB,2933,MSC,169905.13,15877.0,15743.59,9.03,2024-02-01,Cleared
+CONT963413,22.4,Low,Minor flags (off-hours declaration; weekend declaration); risk within acceptable range.,SY,LAX,AU,8542,YML,844440.7,11378.78,12054.09,1.13,2024-10-12,Seized
+CONT507688,20.7,Low,Minor flags (weekend declaration); risk within acceptable range.,US,DXB,AU,2933,MSC,101752.44,13113.51,12648.99,11.84,2024-03-30,Cleared
+CONT848013,17.0,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,NG,RTM,GB,9013,COSCO,42938.87,8221.42,8197.52,11.32,2024-01-27,Cleared
+CONT853315,15.9,Low,Minor flags (weekend declaration); risk within acceptable range.,NL,HAM,SG,2710,PIL,172307.32,8581.87,8185.28,4.4,2024-10-27,Cleared
+CONT318967,15.8,Low,Minor flags (weekend declaration); risk within acceptable range.,NG,HKG,FR,8542,MAERSK,32467.12,9596.35,9789.94,11.76,2024-06-09,Cleared
+CONT135169,15.3,Low,Minor flags (weekend declaration); risk within acceptable range.,US,HKG,US,7108,ONE,58510.29,12378.78,12665.03,21.6,2024-08-18,Cleared
+CONT327369,15.2,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,AU,DEL,CH,8471,COSCO,126917.14,16089.46,15052.03,45.26,2024-11-10,Cleared
+CONT134701,15.2,Low,Minor flags (weekend declaration); risk within acceptable range.,JP,DEL,GB,9013,HMM,48765.91,16500.83,16449.32,13.85,2024-12-22,Cleared
+CONT205682,15.2,Low,Minor flags (weekend declaration); risk within acceptable range.,AU,RTM,CH,6110,ONE,121669.68,9900.76,10287.08,5.36,2024-06-02,Cleared
+CONT870759,15.1,Low,Minor flags (weekend declaration); risk within acceptable range.,NG,NYC,AU,8703,YML,186032.65,6758.25,6475.89,6.89,2024-12-22,Cleared
+CONT840970,15.0,Low,Minor flags (weekend declaration); risk within acceptable range.,US,SGP,DE,7108,ONE,34496.54,15947.74,15033.3,16.53,2024-12-29,Cleared
+CONT435914,14.6,Low,Minor flags (weekend declaration); risk within acceptable range.,PK,LAX,GB,6110,EVERGREEN,71543.33,1487.2,1556.47,20.73,2024-12-08,Cleared
+CONT719330,14.3,Low,Minor flags (weekend declaration); risk within acceptable range.,DE,HAM,FR,8542,YML,18729.05,19162.16,18518.28,19.62,2024-12-29,Cleared
+CONT368733,14.3,Low,Minor flags (weekend declaration); risk within acceptable range.,SO,HAM,FR,8542,HMM,71710.99,6161.03,6068.19,22.92,2024-10-20,Cleared
+CONT345847,14.1,Low,Minor flags (weekend declaration); risk within acceptable range.,AU,SHA,CA,2933,MSC,107588.33,19365.82,18269.21,34.26,2024-08-04,Cleared
+CONT760482,14.1,Low,Minor flags (weekend declaration); risk within acceptable range.,AU,LAX,AU,8542,CMA CGM,145500.63,11094.05,11494.98,6.74,2024-04-20,Cleared
+CONT348018,14.1,Low,Minor flags (weekend declaration); risk within acceptable range.,AU,HAM,AU,3004,HAPAG,26958.8,10849.59,10644.02,45.1,2024-10-13,Cleared
+CONT888245,14.1,Low,Minor flags (weekend declaration); risk within acceptable range.,CH,DEL,SG,8471,HMM,124390.34,9532.61,9585.71,13.38,2024-12-21,Pending
+CONT697202,14.1,Low,Minor flags (weekend declaration); risk within acceptable range.,PK,MUM,CH,8517,COSCO,181467.57,6242.64,6489.59,39.99,2024-10-06,Cleared
+CONT568379,14.0,Low,Minor flags (weekend declaration); risk within acceptable range.,CH,RTM,AU,3004,HAPAG,121719.78,15903.7,15131.35,22.22,2024-08-11,Pending
+CONT760501,14.0,Low,Minor flags (weekend declaration); risk within acceptable range.,JP,DEL,JP,8517,MSC,134380.62,12772.07,12434.2,40.8,2024-09-15,Cleared
+CONT398113,13.9,Low,Minor flags (weekend declaration); risk within acceptable range.,CH,HAM,DE,8471,EVERGREEN,106463.11,17330.56,17248.91,46.91,2024-12-15,Pending
+CONT221897,13.9,Low,Minor flags (weekend declaration); risk within acceptable range.,NG,MUM,US,3004,HAPAG,162637.0,12173.78,12546.15,30.91,2024-12-01,Cleared
+CONT907827,13.9,Low,Minor flags (weekend declaration); risk within acceptable range.,IQ,DXB,AU,9013,CMA CGM,179317.03,17861.07,18211.3,18.78,2024-06-30,Cleared
+CONT586084,13.8,Low,Minor flags (weekend declaration); risk within acceptable range.,DE,SGP,JP,7108,HAPAG,138027.38,13777.64,13751.84,17.87,2024-12-29,Cleared
+CONT191911,13.8,Low,Minor flags (weekend declaration); risk within acceptable range.,IQ,SHA,SG,6110,ONE,62320.07,4790.6,4888.52,14.43,2024-11-10,Pending
+CONT321552,13.7,Low,Minor flags (weekend declaration); risk within acceptable range.,PK,SGP,AU,8471,EVERGREEN,129349.21,12652.54,12917.34,14.65,2024-09-01,Cleared
+CONT297097,13.7,Low,Minor flags (weekend declaration); risk within acceptable range.,CA,HAM,GB,8542,HAPAG,182104.56,15249.58,14984.67,37.38,2024-09-01,Cleared
+CONT846716,13.7,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,SD,HAM,SG,7108,MSC,198981.12,19968.06,18901.49,46.53,2024-02-11,Cleared
+CONT270521,13.6,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,DE,HKG,FR,9013,ONE,127410.36,7307.74,7236.84,32.49,2024-08-25,Cleared
+CONT925626,13.6,Low,Minor flags (weekend declaration); risk within acceptable range.,AU,MUM,FR,2710,PIL,111553.91,5464.49,5610.46,46.55,2024-12-01,Cleared
+CONT618420,13.5,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,GB,DEL,AU,2933,CMA CGM,167402.22,18858.7,19228.99,19.95,2024-05-12,Pending
+CONT245342,13.4,Low,Minor flags (weekend declaration); risk within acceptable range.,AU,LAX,SG,9013,HMM,62572.15,1623.38,1556.12,42.7,2024-07-07,Cleared
+CONT289977,13.3,Low,Minor flags (weekend declaration); risk within acceptable range.,DE,SHA,CA,2710,EVERGREEN,95052.26,6136.62,6150.41,17.84,2024-07-28,Cleared
+CONT262357,13.3,Low,Minor flags (weekend declaration); risk within acceptable range.,FR,MUM,AU,7108,ONE,30307.68,3376.69,3480.43,28.5,2024-06-09,Pending
+CONT384186,13.3,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,IQ,MUM,GB,6110,HAPAG,140268.03,16101.38,15743.99,13.71,2024-07-13,Cleared
+CONT673458,13.1,Low,Minor flags (weekend declaration); risk within acceptable range.,SD,MUM,US,8542,MSC,125178.59,19237.39,18176.35,28.5,2024-07-13,Cleared
+CONT589066,13.1,Low,Minor flags (weekend declaration); risk within acceptable range.,JP,HAM,SG,2933,ONE,169733.94,6236.63,6036.58,15.8,2024-03-24,Cleared
+CONT994230,13.1,Low,Minor flags (weekend declaration); risk within acceptable range.,FR,NYC,CH,9013,MSC,60615.13,2890.4,3029.01,31.75,2024-09-07,Cleared
+CONT862832,13.1,Low,Minor flags (weekend declaration); risk within acceptable range.,NL,DEL,SG,8471,HAPAG,142267.65,4169.76,4257.71,45.61,2024-08-10,Cleared
+CONT673156,13.1,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,SG,SHA,SG,7108,MSC,83453.79,4389.08,4334.28,42.47,2024-12-01,Cleared
+CONT278376,13.1,Low,Minor flags (weekend declaration); risk within acceptable range.,US,DXB,DE,2933,MAERSK,169098.28,6128.31,5901.82,41.24,2024-06-02,Pending
+CONT913560,12.9,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,AU,SGP,CA,2933,MAERSK,157223.18,11345.44,11062.79,29.69,2024-09-29,Pending
+CONT949649,12.9,Low,Minor flags (weekend declaration); risk within acceptable range.,SG,LAX,CA,3004,HAPAG,163563.79,6313.09,6391.72,15.33,2024-12-07,Cleared
+CONT737031,12.9,Low,Minor flags (weekend declaration); risk within acceptable range.,SD,DXB,JP,8517,ONE,27003.91,18209.38,18019.72,42.28,2024-08-17,Cleared
+CONT626750,12.7,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,JP,RTM,US,8703,HMM,79293.3,5203.54,5126.61,39.57,2024-09-01,Cleared
+CONT893853,12.7,Low,Minor flags (weekend declaration); risk within acceptable range.,CA,SHA,NL,6110,ONE,111606.0,1449.13,1502.37,14.21,2024-09-14,Cleared
+CONT145833,12.7,Low,Minor flags (weekend declaration); risk within acceptable range.,FR,RTM,JP,8517,HAPAG,118525.73,4606.49,4429.58,13.0,2024-04-07,Cleared
+CONT702801,12.7,Low,Minor flags (weekend declaration); risk within acceptable range.,GB,DXB,CA,2933,HMM,46860.23,14788.79,15420.77,33.26,2024-08-31,Cleared
+CONT337474,12.7,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,PK,HKG,SG,3004,HAPAG,61402.56,5377.35,5297.79,20.25,2024-06-22,Cleared
+CONT570076,12.6,Low,Minor flags (weekend declaration); risk within acceptable range.,CA,NYC,GB,8703,MAERSK,174910.05,12476.09,12140.74,47.95,2024-05-26,Cleared
+CONT282958,12.5,Low,All parameters normal. Standard clearance applicable.,NL,NYC,FR,8471,HAPAG,142821.56,9186.86,9365.71,11.35,2024-07-22,Cleared
+CONT276037,12.5,Low,Minor flags (weekend declaration); risk within acceptable range.,JP,MUM,FR,3004,ONE,128345.4,15744.0,16526.63,20.41,2024-02-10,Cleared
+CONT907221,12.4,Low,Minor flags (weekend declaration); risk within acceptable range.,NG,MUM,CH,2933,HAPAG,190531.74,15486.49,15373.42,11.72,2024-05-11,Cleared
+CONT479989,12.4,Low,Minor flags (weekend declaration); risk within acceptable range.,GB,DEL,JP,2710,CMA CGM,45209.53,8855.85,9178.59,42.57,2024-03-02,Cleared
+CONT718636,12.4,Low,Minor flags (weekend declaration); risk within acceptable range.,NL,HKG,FR,8471,HAPAG,67529.24,18372.47,18620.77,28.3,2024-09-21,Cleared
+CONT952224,12.2,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,IQ,HAM,NL,2710,MSC,71498.93,11541.69,11451.06,46.32,2024-06-08,Cleared
+CONT285784,12.2,Low,Minor flags (weekend declaration); risk within acceptable range.,CA,SHA,CH,9013,ONE,155703.82,3343.05,3173.71,39.34,2024-10-19,Cleared
+CONT741000,12.1,Low,Minor flags (weekend declaration); risk within acceptable range.,NL,SGP,US,8517,CMA CGM,75136.73,15776.83,15824.96,34.24,2024-09-14,Cleared
+CONT898009,12.1,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,PK,DXB,AU,2710,ONE,88083.84,13007.78,13048.35,28.11,2024-07-27,Cleared
+CONT560829,12.1,Low,Minor flags (weekend declaration); risk within acceptable range.,JP,DEL,CA,8542,YML,136914.33,7162.26,7196.61,30.15,2024-03-24,Cleared
+CONT400763,12.0,Low,Minor flags (weekend declaration); risk within acceptable range.,SG,SGP,CH,8471,PIL,38032.32,15052.81,14251.84,31.32,2024-05-26,Cleared
+CONT405442,12.0,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,PK,HKG,GB,2933,MSC,7515.01,5835.15,5797.65,27.77,2024-05-12,Pending
+CONT255489,12.0,Low,Minor flags (weekend declaration); risk within acceptable range.,CH,HAM,DE,2933,HAPAG,91296.38,5719.29,5615.34,32.57,2024-03-03,Pending
+CONT139236,11.9,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,GB,HAM,DE,2933,PIL,96967.14,15820.91,16020.33,14.01,2024-02-24,Cleared
+CONT568298,11.9,Low,Minor flags (weekend declaration); risk within acceptable range.,SO,HAM,AU,8471,YML,11437.33,6698.83,6689.21,45.97,2024-08-03,Cleared
+CONT552372,11.9,Low,Minor flags (weekend declaration); risk within acceptable range.,NG,SHA,SG,3004,CMA CGM,59175.3,1843.37,1851.29,39.93,2024-11-02,Cleared
+CONT537651,11.8,Low,Minor flags (weekend declaration); risk within acceptable range.,US,SHA,DE,9013,HAPAG,142502.13,4407.76,4408.54,24.03,2024-04-21,Cleared
+CONT562326,11.8,Low,Minor flags (weekend declaration); risk within acceptable range.,JP,DXB,JP,3004,PIL,143209.3,2955.98,2958.84,14.95,2024-07-20,Cleared
+CONT281871,11.7,Low,Minor flags (weekend declaration); risk within acceptable range.,US,MUM,FR,2710,HMM,143083.76,14377.58,14302.82,24.93,2024-02-24,Cleared
+CONT151663,11.6,Low,Minor flags (weekend declaration); risk within acceptable range.,SG,SGP,CA,7108,CMA CGM,164204.22,9935.71,9922.18,39.13,2024-12-14,Cleared
+CONT768179,11.6,Low,Minor flags (weekend declaration); risk within acceptable range.,SG,SGP,FR,8703,YML,195722.05,15952.43,15807.68,38.94,2024-06-02,Cleared
+CONT777758,11.6,Low,Minor flags (weekend declaration); risk within acceptable range.,DE,LAX,NL,6110,MAERSK,56808.69,11727.29,11837.86,43.42,2024-05-11,Cleared
+CONT854122,11.4,Low,Minor flags (weekend declaration); risk within acceptable range.,DE,SGP,AU,8703,CMA CGM,189733.34,18768.83,18356.74,31.51,2024-03-24,Cleared
+CONT505105,11.3,Low,Minor flags (weekend declaration); risk within acceptable range.,PK,RTM,SG,2710,YML,174925.74,6510.87,6623.22,33.6,2024-09-28,Cleared
+CONT837266,11.2,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,SD,DXB,CH,7108,EVERGREEN,63251.49,16802.24,16873.26,45.39,2024-03-09,Cleared
+CONT547628,11.1,Low,Minor flags (weekend declaration); risk within acceptable range.,SD,HAM,US,9013,ONE,113394.81,4261.89,4338.63,34.78,2024-05-25,Cleared
+CONT790504,11.1,Low,Minor flags (weekend declaration); risk within acceptable range.,CA,SGP,NL,2933,MSC,105358.23,2569.74,2514.97,43.55,2024-02-18,Cleared
+CONT943890,11.1,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,SG,SGP,DE,8542,YML,18881.79,18201.66,18355.1,18.03,2024-04-14,Cleared
+CONT365470,10.9,Low,Minor flags (weekend declaration); risk within acceptable range.,SD,LAX,CH,6110,PIL,66890.83,2213.72,2266.99,13.69,2024-03-16,Cleared
+CONT655710,10.9,Low,Minor flags (weekend declaration); risk within acceptable range.,AU,NYC,AU,8471,EVERGREEN,17067.71,1118.89,1106.87,27.56,2024-03-03,Cleared
+CONT195071,10.8,Low,Minor flags (weekend declaration); risk within acceptable range.,PK,HAM,GB,7108,YML,11719.95,2097.08,2074.33,46.66,2024-03-10,Pending
+CONT888260,10.7,Low,Minor flags (weekend declaration); risk within acceptable range.,FR,RTM,CA,8471,ONE,103984.02,4553.83,4449.56,14.67,2024-05-18,Cleared
+CONT573146,10.6,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,GB,SGP,SG,8542,MSC,114016.56,19946.46,19997.74,18.13,2024-03-02,Cleared
+CONT161844,10.4,Low,Minor flags (weekend declaration); risk within acceptable range.,JP,HAM,FR,7108,YML,73844.83,6367.43,6185.2,43.34,2024-05-11,Pending
+CONT644653,10.1,Low,Minor flags (weekend declaration); risk within acceptable range.,PK,RTM,DE,2933,ONE,26138.07,7871.66,7893.61,42.54,2024-04-27,Cleared
+CONT975352,10.1,Low,Minor flags (weekend declaration); risk within acceptable range.,CH,SGP,CH,8542,MSC,63901.8,5857.25,5868.45,36.21,2024-05-25,Pending
+CONT790091,9.8,Low,Minor flags (weekend declaration); risk within acceptable range.,CA,SHA,CA,8542,ONE,110142.79,6108.37,6124.21,46.63,2024-02-03,Cleared
+CONT139986,9.8,Low,Minor flags (weekend declaration; transit shipment); risk within acceptable range.,SG,MUM,JP,8517,YML,103574.04,4726.15,4723.61,30.18,2024-04-06,Cleared
+CONT625128,9.2,Low,Minor flags (off-hours declaration); risk within acceptable range.,YE,SHA,US,8703,COSCO,1119.5,10966.11,10354.97,1.13,2024-02-19,Under Review
+CONT186988,9.1,Low,Minor flags (above-average dwell (78 hrs); off-hours declaration); risk within acceptable range.,LY,MUM,FR,2710,YML,808.11,14008.05,13116.61,78.24,2024-03-21,Flagged
+CONT390693,7.2,Low,All parameters normal. Standard clearance applicable.,CA,NYC,NL,8471,HAPAG,119532.82,10848.06,11111.83,11.67,2024-06-10,Pending
+CONT958823,6.1,Low,Minor flags (transit shipment); risk within acceptable range.,FR,DEL,CA,8703,MAERSK,47648.41,6294.22,6237.6,12.04,2024-09-03,Cleared
+CONT889948,5.6,Low,All parameters normal. Standard clearance applicable.,JP,RTM,GB,7108,MAERSK,20446.56,10909.47,11327.94,6.07,2024-10-22,Cleared
+CONT302435,5.5,Low,All parameters normal. Standard clearance applicable.,AF,MUM,NL,8517,HAPAG,165784.29,2298.48,2181.24,7.27,2024-03-08,Cleared
+CONT497686,5.5,Low,All parameters normal. Standard clearance applicable.,PK,DXB,CH,8471,HAPAG,29519.59,11112.65,10648.59,9.84,2024-01-08,Cleared
+CONT656701,5.4,Low,All parameters normal. Standard clearance applicable.,NL,DXB,SG,2933,EVERGREEN,148828.55,15597.19,14810.24,14.51,2024-11-19,Cleared
+CONT942393,5.4,Low,All parameters normal. Standard clearance applicable.,JP,LAX,GB,3004,HAPAG,83497.26,10736.7,11016.84,13.59,2024-01-29,Cleared
+CONT241554,4.9,Low,All parameters normal. Standard clearance applicable.,JP,DEL,DE,6110,MSC,166112.39,8715.56,8509.97,14.02,2024-09-05,Cleared
+CONT641357,4.8,Low,All parameters normal. Standard clearance applicable.,SD,DEL,NL,7108,PIL,101809.92,14830.85,14044.02,23.22,2024-11-11,Cleared
+CONT646237,4.7,Low,Minor flags (transit shipment); risk within acceptable range.,CH,MUM,GB,3004,HAPAG,52011.54,8179.16,8268.1,13.02,2024-10-14,Cleared
+CONT218012,4.7,Low,All parameters normal. Standard clearance applicable.,FR,DXB,JP,2933,MSC,163690.03,19513.5,18393.79,34.13,2024-03-22,Cleared
+CONT238155,4.6,Low,Minor flags (transit shipment); risk within acceptable range.,AU,HAM,FR,8703,ONE,126709.04,6093.21,5928.6,22.01,2024-12-20,Cleared
+CONT275885,4.6,Low,All parameters normal. Standard clearance applicable.,CA,DEL,CA,8517,MAERSK,189646.07,1590.29,1642.73,14.59,2024-10-18,Cleared
+CONT631740,4.6,Low,All parameters normal. Standard clearance applicable.,JP,DXB,DE,7108,EVERGREEN,39056.2,11414.76,11526.2,17.02,2024-01-15,Cleared
+CONT441396,4.5,Low,All parameters normal. Standard clearance applicable.,AF,DXB,CA,2933,MSC,12969.38,4653.49,4462.01,11.43,2024-11-21,Cleared
+CONT962522,4.5,Low,All parameters normal. Standard clearance applicable.,US,DXB,SG,2933,HAPAG,78860.66,11724.71,11803.27,18.85,2024-12-30,Pending
+CONT955684,4.4,Low,Minor flags (transit shipment); risk within acceptable range.,CA,DXB,CA,8703,EVERGREEN,76713.07,9095.58,8722.61,22.22,2024-07-01,Cleared
+CONT738273,4.4,Low,All parameters normal. Standard clearance applicable.,CA,DEL,NL,8542,COSCO,13774.38,5155.56,5321.5,36.3,2024-01-12,Cleared
+CONT137310,4.4,Low,All parameters normal. Standard clearance applicable.,GB,DEL,JP,3004,EVERGREEN,20612.36,8064.9,7907.56,24.88,2024-08-15,Cleared
+CONT245338,4.4,Low,All parameters normal. Standard clearance applicable.,DE,MUM,CA,2710,EVERGREEN,118705.62,17491.61,16389.71,35.59,2024-07-19,Cleared
+CONT164373,4.3,Low,All parameters normal. Standard clearance applicable.,AF,DEL,AU,7108,HAPAG,90468.23,7321.11,7084.63,15.56,2024-04-09,Cleared
+CONT141505,4.3,Low,All parameters normal. Standard clearance applicable.,AU,DEL,US,8517,ONE,81658.75,6140.63,6324.2,10.13,2024-03-19,Cleared
+CONT827955,4.3,Low,All parameters normal. Standard clearance applicable.,SO,LAX,GB,7108,HAPAG,81469.49,16962.31,16994.68,11.9,2024-12-17,Cleared
+CONT869606,4.2,Low,All parameters normal. Standard clearance applicable.,FR,DXB,AU,2710,HMM,18721.78,12146.28,12691.86,31.77,2024-12-27,Pending
+CONT807548,4.2,Low,All parameters normal. Standard clearance applicable.,PK,LAX,DE,3004,CMA CGM,28796.84,15757.75,15002.46,30.15,2024-11-11,Pending
+CONT707745,4.2,Low,Minor flags (transit shipment); risk within acceptable range.,US,DEL,FR,8517,CMA CGM,20936.44,11327.23,11723.02,24.17,2024-01-22,Cleared
+CONT781652,4.2,Low,All parameters normal. Standard clearance applicable.,AF,HKG,NL,3004,CMA CGM,52830.68,14944.29,15438.19,10.92,2024-06-18,Cleared
+CONT243029,4.2,Low,All parameters normal. Standard clearance applicable.,CH,RTM,GB,6110,ONE,177621.58,1654.19,1719.26,7.82,2024-10-10,Cleared
+CONT475903,4.2,Low,All parameters normal. Standard clearance applicable.,JP,DXB,SG,8471,MAERSK,156061.22,3518.91,3510.03,15.65,2024-09-18,Pending
+CONT134924,4.1,Low,Minor flags (transit shipment); risk within acceptable range.,JP,DXB,FR,8542,MAERSK,157141.47,7741.81,8077.89,28.81,2024-11-08,Cleared
+CONT189846,4.1,Low,All parameters normal. Standard clearance applicable.,IQ,DXB,AU,8471,PIL,172133.9,17853.81,17370.36,39.95,2024-01-12,Cleared
+CONT949881,4.1,Low,All parameters normal. Standard clearance applicable.,CH,MUM,CA,8542,PIL,92495.26,8527.28,8300.84,14.45,2024-09-23,Cleared
+CONT854651,4.1,Low,All parameters normal. Standard clearance applicable.,AF,MUM,CH,2933,ONE,181984.15,8496.95,8037.31,35.42,2024-09-06,Cleared
+CONT608062,4.1,Low,All parameters normal. Standard clearance applicable.,JP,DXB,FR,7108,YML,86587.96,2549.0,2444.26,12.96,2024-01-24,Cleared
+CONT735232,4.1,Low,Minor flags (transit shipment); risk within acceptable range.,GB,DEL,FR,9013,HMM,117785.45,14762.44,15481.4,16.06,2024-06-12,Cleared
+CONT942503,4.1,Low,All parameters normal. Standard clearance applicable.,SD,LAX,AU,8517,MAERSK,61544.17,9800.28,9574.78,28.78,2024-01-12,Cleared
+CONT903940,4.1,Low,Minor flags (transit shipment); risk within acceptable range.,FR,DEL,US,2710,MSC,25546.16,19354.9,18742.1,38.4,2024-10-30,Cleared
+CONT480714,4.0,Low,Minor flags (transit shipment); risk within acceptable range.,SD,MUM,SG,9013,MAERSK,130302.63,17750.7,18381.29,7.46,2024-05-29,Cleared
+CONT664984,4.0,Low,All parameters normal. Standard clearance applicable.,AU,DXB,FR,8703,ONE,122650.17,13891.33,13481.63,39.27,2024-02-02,Cleared
+CONT794489,4.0,Low,All parameters normal. Standard clearance applicable.,JP,DEL,AU,9013,ONE,78577.02,18288.92,17721.54,46.42,2024-11-11,Cleared
+CONT263384,4.0,Low,All parameters normal. Standard clearance applicable.,US,DEL,SG,9013,EVERGREEN,45464.74,14558.54,15119.06,29.03,2024-10-24,Pending
+CONT562120,4.0,Low,All parameters normal. Standard clearance applicable.,GB,SHA,SG,8471,PIL,78014.9,18456.26,19123.44,7.03,2024-08-01,Cleared
+CONT583157,4.0,Low,All parameters normal. Standard clearance applicable.,SG,LAX,CA,8517,MAERSK,83543.18,11018.91,10722.61,29.91,2024-12-03,Cleared
+CONT715324,3.9,Low,All parameters normal. Standard clearance applicable.,SG,LAX,CH,3004,MSC,72763.88,18874.69,18623.19,23.16,2024-01-11,Cleared
+CONT919812,3.9,Low,All parameters normal. Standard clearance applicable.,JP,DXB,SG,7108,HAPAG,37926.57,18046.54,17267.86,26.31,2024-06-24,Cleared
+CONT478336,3.9,Low,All parameters normal. Standard clearance applicable.,SG,DXB,US,9013,CMA CGM,161281.93,6339.95,6260.79,21.25,2024-08-08,Cleared
+CONT779249,3.9,Low,All parameters normal. Standard clearance applicable.,CH,DEL,GB,6110,COSCO,183715.38,4158.36,4131.46,18.42,2024-02-16,Cleared
+CONT576182,3.8,Low,All parameters normal. Standard clearance applicable.,JP,RTM,SG,6110,CMA CGM,107793.93,11531.71,10796.93,36.31,2024-09-30,Cleared
+CONT598863,3.8,Low,All parameters normal. Standard clearance applicable.,DE,HAM,CA,3004,MSC,62581.66,5829.11,5564.2,18.19,2024-02-08,Cleared
+CONT762806,3.8,Low,All parameters normal. Standard clearance applicable.,NL,LAX,JP,8471,MAERSK,31421.43,14076.16,14346.21,23.69,2024-01-09,Cleared
+CONT441383,3.8,Low,All parameters normal. Standard clearance applicable.,CH,MUM,FR,8703,MSC,18983.82,13270.63,12708.22,22.02,2024-06-24,Cleared
+CONT679879,3.8,Low,All parameters normal. Standard clearance applicable.,SD,LAX,NL,6110,HMM,146818.04,18606.52,19370.38,18.37,2024-07-31,Cleared
+CONT973216,3.7,Low,Minor flags (transit shipment); risk within acceptable range.,DE,SHA,SG,6110,MSC,67510.68,5548.03,5293.86,9.94,2024-07-31,Cleared
+CONT885858,3.7,Low,All parameters normal. Standard clearance applicable.,CH,MUM,AU,3004,ONE,143471.46,5602.39,5406.42,33.34,2024-08-02,Cleared
+CONT204127,3.7,Low,All parameters normal. Standard clearance applicable.,NG,DEL,US,3004,EVERGREEN,32105.43,15019.73,14491.53,23.36,2024-06-19,Cleared
+CONT377749,3.7,Low,All parameters normal. Standard clearance applicable.,SG,SHA,CA,2710,ONE,20927.55,12288.59,12581.4,13.58,2024-09-18,Cleared
+CONT516460,3.7,Low,All parameters normal. Standard clearance applicable.,AU,MUM,US,8542,CMA CGM,70551.25,16827.12,16282.99,17.57,2024-02-21,Cleared
+CONT998760,3.7,Low,All parameters normal. Standard clearance applicable.,AF,SGP,CH,8471,MSC,116020.25,1937.64,1994.61,20.84,2024-08-12,Cleared
+CONT666118,3.6,Low,Minor flags (transit shipment); risk within acceptable range.,JP,NYC,JP,8703,COSCO,62040.7,8953.06,8649.54,18.62,2024-06-04,Cleared
+CONT529199,3.6,Low,All parameters normal. Standard clearance applicable.,PK,NYC,CH,8542,HAPAG,92376.67,13716.1,13474.69,25.47,2024-07-23,Cleared
+CONT361497,3.6,Low,All parameters normal. Standard clearance applicable.,IQ,SGP,FR,3004,EVERGREEN,150905.4,13098.47,12546.15,13.9,2024-04-19,Cleared
+CONT882381,3.6,Low,All parameters normal. Standard clearance applicable.,GB,DEL,FR,2933,HAPAG,141838.96,4608.79,4674.48,28.48,2024-11-04,Cleared
+CONT811851,3.6,Low,All parameters normal. Standard clearance applicable.,SO,DXB,US,8703,MAERSK,49886.13,17419.18,17532.55,25.96,2024-08-07,Cleared
+CONT779290,3.6,Low,All parameters normal. Standard clearance applicable.,NG,SGP,JP,2933,MSC,44317.33,16110.08,15237.78,11.2,2024-03-18,Cleared
+CONT523966,3.6,Low,All parameters normal. Standard clearance applicable.,NL,SHA,CA,8542,HAPAG,11565.49,5166.21,5155.13,13.44,2024-12-02,Cleared
+CONT172588,3.6,Low,All parameters normal. Standard clearance applicable.,AF,MUM,AU,8471,PIL,28767.79,8857.43,8482.89,11.97,2024-06-07,Cleared
+CONT590457,3.5,Low,All parameters normal. Standard clearance applicable.,CH,SHA,SG,9013,HAPAG,114332.05,13246.39,12740.08,25.17,2024-07-01,Pending
+CONT302646,3.5,Low,Minor flags (transit shipment); risk within acceptable range.,CH,HAM,AU,2933,ONE,151705.36,2566.23,2466.59,44.11,2024-10-14,Cleared
+CONT400821,3.5,Low,Minor flags (transit shipment); risk within acceptable range.,AF,HAM,SG,8542,ONE,58662.09,12381.21,12786.86,44.02,2024-12-10,Cleared
+CONT178222,3.5,Low,Minor flags (transit shipment); risk within acceptable range.,SD,LAX,NL,2710,MSC,174271.05,17681.51,16832.26,39.46,2024-06-11,Cleared
+CONT763270,3.5,Low,All parameters normal. Standard clearance applicable.,CH,NYC,US,8703,MSC,101131.63,11178.09,11539.77,24.76,2024-01-18,Cleared
+CONT887163,3.5,Low,All parameters normal. Standard clearance applicable.,DE,HKG,AU,2710,CMA CGM,15620.88,7242.6,7242.75,12.03,2024-04-15,Pending
+CONT974527,3.5,Low,All parameters normal. Standard clearance applicable.,FR,NYC,NL,8517,COSCO,51309.24,8260.35,8191.43,17.2,2024-01-15,Cleared
+CONT181816,3.5,Low,All parameters normal. Standard clearance applicable.,PK,MUM,DE,8471,HAPAG,189594.4,5854.37,5711.24,28.65,2024-09-04,Cleared
+CONT190715,3.4,Low,All parameters normal. Standard clearance applicable.,DE,DEL,GB,8517,MSC,159856.24,15370.77,15812.49,25.76,2024-05-17,Pending
+CONT416759,3.4,Low,All parameters normal. Standard clearance applicable.,SG,LAX,SG,8703,MAERSK,20186.4,17743.9,18251.96,35.1,2024-10-01,Pending
+CONT229350,3.4,Low,All parameters normal. Standard clearance applicable.,JP,NYC,NL,8471,PIL,27248.68,19468.1,18524.79,10.65,2024-03-26,Cleared
+CONT778173,3.4,Low,All parameters normal. Standard clearance applicable.,US,SGP,JP,2710,MSC,18296.39,5437.78,5440.65,12.23,2024-01-22,Cleared
+CONT484096,3.4,Low,Minor flags (transit shipment); risk within acceptable range.,CA,SHA,CH,2933,MSC,12763.23,8856.81,9276.61,16.06,2024-02-05,Pending
+CONT979780,3.4,Low,All parameters normal. Standard clearance applicable.,US,HAM,NL,2933,COSCO,65756.49,6260.53,6489.61,41.21,2024-07-19,Cleared
+CONT585450,3.4,Low,All parameters normal. Standard clearance applicable.,PK,LAX,DE,8703,CMA CGM,98608.96,16511.33,16716.26,22.5,2024-04-12,Cleared
+CONT465340,3.4,Low,All parameters normal. Standard clearance applicable.,CA,NYC,FR,8542,COSCO,182541.9,9567.3,9952.5,17.11,2024-05-17,Cleared
+CONT486821,3.4,Low,Minor flags (transit shipment); risk within acceptable range.,NL,RTM,GB,2710,MSC,146425.24,9333.69,9200.92,25.41,2024-10-21,Pending
+CONT645096,3.3,Low,Minor flags (transit shipment); risk within acceptable range.,NL,HKG,NL,9013,COSCO,154675.69,1994.75,2058.09,22.33,2024-06-14,Cleared
+CONT759993,3.3,Low,All parameters normal. Standard clearance applicable.,NG,RTM,NL,8471,MAERSK,77154.78,18682.21,18015.14,28.22,2024-02-23,Cleared
+CONT104922,3.3,Low,Minor flags (transit shipment); risk within acceptable range.,DE,LAX,CA,8703,YML,191805.97,11983.37,11452.58,26.14,2024-10-23,Cleared
+CONT511597,3.3,Low,All parameters normal. Standard clearance applicable.,SD,MUM,DE,2710,HAPAG,90555.21,18093.68,18477.95,29.41,2024-11-04,Cleared
+CONT583414,3.3,Low,All parameters normal. Standard clearance applicable.,DE,HKG,DE,8703,MSC,62067.74,13140.3,13091.03,28.0,2024-08-12,Cleared
+CONT930351,3.3,Low,All parameters normal. Standard clearance applicable.,IQ,MUM,NL,3004,MSC,188104.3,19712.07,19425.82,23.92,2024-07-02,Cleared
+CONT495755,3.2,Low,All parameters normal. Standard clearance applicable.,SO,DXB,CH,8542,PIL,192861.91,13612.0,12821.21,28.65,2024-05-21,Pending
+CONT609452,3.2,Low,Minor flags (transit shipment); risk within acceptable range.,DE,HKG,JP,8703,EVERGREEN,96290.06,8499.95,8535.22,29.48,2024-11-08,Cleared
+CONT810386,3.2,Low,All parameters normal. Standard clearance applicable.,FR,DXB,US,8542,PIL,185660.44,16864.0,17112.51,22.46,2024-01-18,Cleared
+CONT868917,3.2,Low,All parameters normal. Standard clearance applicable.,NG,HAM,FR,2933,MSC,22953.06,2436.09,2429.99,30.36,2024-11-18,Cleared
+CONT610491,3.2,Low,Minor flags (transit shipment); risk within acceptable range.,NG,DXB,AU,2710,MSC,116049.47,11997.96,12248.95,42.21,2024-07-15,Cleared
+CONT592134,3.2,Low,All parameters normal. Standard clearance applicable.,PK,SHA,CH,8517,HAPAG,172382.03,14973.81,14874.5,14.23,2024-11-21,Cleared
+CONT293075,3.1,Low,All parameters normal. Standard clearance applicable.,CH,LAX,CH,2710,MAERSK,106164.17,7414.69,7378.81,34.93,2024-09-24,Cleared
+CONT651595,3.1,Low,All parameters normal. Standard clearance applicable.,JP,DXB,GB,9013,HAPAG,147350.34,16591.24,16070.43,19.74,2024-04-18,Cleared
+CONT793312,3.1,Low,All parameters normal. Standard clearance applicable.,CH,SGP,DE,8703,COSCO,163860.85,16839.24,16343.0,30.92,2024-12-20,Cleared
+CONT234794,3.1,Low,All parameters normal. Standard clearance applicable.,NL,SGP,CH,7108,YML,116743.23,6860.9,6757.44,18.31,2024-10-25,Cleared
+CONT144772,3.1,Low,Minor flags (transit shipment); risk within acceptable range.,FR,DEL,US,9013,CMA CGM,180873.64,4397.98,4552.81,21.48,2024-03-04,Cleared
+CONT250594,3.1,Low,All parameters normal. Standard clearance applicable.,NL,HAM,GB,9013,COSCO,54558.72,12345.22,11792.08,40.31,2024-04-22,Cleared
+CONT777775,3.1,Low,All parameters normal. Standard clearance applicable.,FR,MUM,CA,7108,CMA CGM,71604.83,7600.85,7686.5,27.64,2024-01-08,Cleared
+CONT613758,3.1,Low,Minor flags (transit shipment); risk within acceptable range.,PK,RTM,CH,9013,MSC,170971.65,17207.18,16770.05,17.94,2024-02-23,Cleared
+CONT257661,3.1,Low,All parameters normal. Standard clearance applicable.,IQ,HKG,DE,2933,HMM,89483.12,13378.87,13736.38,47.31,2024-11-15,Cleared
+CONT101095,3.0,Low,All parameters normal. Standard clearance applicable.,NL,DXB,JP,9013,MSC,22077.04,16392.66,16372.83,31.89,2024-09-26,Pending
+CONT965363,3.0,Low,Minor flags (transit shipment); risk within acceptable range.,DE,HAM,SG,2710,HMM,79848.58,3175.27,3024.36,24.07,2024-04-22,Cleared
+CONT902207,3.0,Low,All parameters normal. Standard clearance applicable.,CH,HAM,CH,2710,PIL,45519.14,8616.76,8885.98,39.15,2024-10-14,Cleared
+CONT742710,3.0,Low,All parameters normal. Standard clearance applicable.,IQ,NYC,FR,3004,COSCO,152507.96,4496.85,4689.31,24.86,2024-08-08,Cleared
+CONT198064,3.0,Low,All parameters normal. Standard clearance applicable.,JP,SHA,SG,6110,YML,154761.06,19718.32,19306.68,23.11,2024-12-17,Cleared
+CONT937860,3.0,Low,Minor flags (transit shipment); risk within acceptable range.,AU,RTM,US,2710,YML,13804.52,3241.48,3399.27,23.27,2024-08-13,Cleared
+CONT649999,3.0,Low,All parameters normal. Standard clearance applicable.,IQ,HKG,FR,7108,EVERGREEN,86109.06,13172.08,13719.43,37.4,2024-07-24,Cleared
+CONT474710,3.0,Low,Minor flags (transit shipment); risk within acceptable range.,SG,HAM,CH,6110,HMM,67976.51,14795.74,14802.46,38.99,2024-12-11,Cleared
+CONT450068,3.0,Low,All parameters normal. Standard clearance applicable.,AF,DXB,CH,2933,MAERSK,170574.11,2019.06,2006.72,20.87,2024-06-26,Cleared
+CONT563930,3.0,Low,Minor flags (transit shipment); risk within acceptable range.,SO,NYC,CA,9013,COSCO,134151.18,7247.63,7439.54,37.08,2024-11-22,Cleared
+CONT883924,3.0,Low,All parameters normal. Standard clearance applicable.,IQ,HAM,SG,8471,MSC,109285.9,7869.26,7653.89,47.83,2024-07-16,Cleared
+CONT479039,3.0,Low,All parameters normal. Standard clearance applicable.,PK,NYC,NL,3004,HMM,63461.1,1025.72,1003.59,32.44,2024-11-26,Pending
+CONT349836,2.9,Low,All parameters normal. Standard clearance applicable.,NG,DEL,AU,7108,HMM,144319.64,14722.11,14803.43,23.56,2024-03-06,Cleared
+CONT717075,2.9,Low,All parameters normal. Standard clearance applicable.,CH,SHA,NL,8703,HMM,74478.08,3319.67,3151.93,43.9,2024-08-20,Cleared
+CONT274750,2.9,Low,All parameters normal. Standard clearance applicable.,SD,DEL,JP,8703,CMA CGM,22896.63,1411.27,1388.71,33.96,2024-04-12,Pending
+CONT425137,2.9,Low,All parameters normal. Standard clearance applicable.,GB,DEL,US,2933,EVERGREEN,157136.91,8262.79,8056.11,47.9,2024-04-22,Cleared
+CONT693411,2.9,Low,All parameters normal. Standard clearance applicable.,JP,RTM,CA,2710,HAPAG,142286.13,8811.74,8962.51,13.57,2024-05-31,Cleared
+CONT330168,2.9,Low,All parameters normal. Standard clearance applicable.,AF,DEL,CH,2710,YML,102556.65,5094.74,5205.5,22.27,2024-03-18,Cleared
+CONT317770,2.9,Low,All parameters normal. Standard clearance applicable.,US,HAM,CA,8542,MSC,127185.54,17968.71,18288.68,44.76,2024-11-18,Cleared
+CONT695597,2.9,Low,All parameters normal. Standard clearance applicable.,IQ,DXB,US,6110,EVERGREEN,153755.34,13930.77,14077.86,37.67,2024-01-09,Cleared
+CONT153352,2.9,Low,All parameters normal. Standard clearance applicable.,JP,MUM,US,2933,MSC,81922.87,8141.88,8086.98,24.22,2024-07-10,Cleared
+CONT243435,2.9,Low,Minor flags (transit shipment); risk within acceptable range.,NL,DXB,AU,2710,ONE,73375.32,4548.68,4617.53,20.58,2024-06-06,Cleared
+CONT790658,2.9,Low,All parameters normal. Standard clearance applicable.,NL,DXB,JP,8517,COSCO,32143.61,10107.73,10384.4,43.52,2024-01-25,Cleared
+CONT597163,2.8,Low,Minor flags (transit shipment); risk within acceptable range.,JP,LAX,DE,6110,HAPAG,144924.47,5663.63,5912.86,38.18,2024-11-28,Cleared
+CONT934799,2.8,Low,All parameters normal. Standard clearance applicable.,FR,SHA,SG,8471,MAERSK,127825.12,14823.7,14635.09,19.83,2024-06-28,Cleared
+CONT988943,2.8,Low,All parameters normal. Standard clearance applicable.,SD,SGP,CH,3004,EVERGREEN,14008.31,19616.27,19517.66,29.5,2024-11-08,Pending
+CONT657373,2.8,Low,All parameters normal. Standard clearance applicable.,AU,RTM,AU,3004,MSC,91718.99,8811.15,8653.5,29.37,2024-10-23,Pending
+CONT465208,2.8,Low,All parameters normal. Standard clearance applicable.,NG,HAM,AU,8471,YML,27776.8,6981.98,6850.89,16.02,2024-06-06,Cleared
+CONT681462,2.8,Low,All parameters normal. Standard clearance applicable.,SG,RTM,SG,2933,EVERGREEN,42861.76,6141.78,6368.82,24.88,2024-01-16,Cleared
+CONT224046,2.7,Low,All parameters normal. Standard clearance applicable.,CH,LAX,AU,3004,HMM,18833.48,1098.51,1059.52,21.46,2024-04-01,Cleared
+CONT308886,2.7,Low,Minor flags (transit shipment); risk within acceptable range.,CH,SGP,NL,2933,MSC,89733.54,6785.32,7032.06,42.26,2024-08-13,Cleared
+CONT267292,2.7,Low,All parameters normal. Standard clearance applicable.,NG,LAX,JP,8517,PIL,21950.38,19290.34,18310.43,31.86,2024-02-05,Cleared
+CONT423923,2.7,Low,All parameters normal. Standard clearance applicable.,SG,SGP,US,9013,HMM,78896.4,15162.56,14634.39,17.32,2024-02-22,Cleared
+CONT634003,2.7,Low,All parameters normal. Standard clearance applicable.,CA,SGP,CA,8471,MSC,158640.89,5883.9,6007.7,42.05,2024-08-13,Cleared
+CONT319123,2.7,Low,All parameters normal. Standard clearance applicable.,AF,HKG,AU,7108,EVERGREEN,151404.1,19936.98,19933.46,32.37,2024-12-04,Cleared
+CONT830892,2.7,Low,All parameters normal. Standard clearance applicable.,SO,RTM,AU,3004,HMM,175949.75,9109.52,9495.96,22.37,2024-05-20,Cleared
+CONT490300,2.6,Low,All parameters normal. Standard clearance applicable.,AF,NYC,US,3004,CMA CGM,194989.47,7122.95,7383.32,47.4,2024-09-17,Cleared
+CONT509064,2.6,Low,All parameters normal. Standard clearance applicable.,IQ,LAX,FR,8703,ONE,11032.84,3880.1,4021.34,46.71,2024-10-31,Cleared
+CONT555433,2.6,Low,All parameters normal. Standard clearance applicable.,CH,RTM,JP,8703,HAPAG,77892.58,6383.92,6414.01,31.51,2024-12-13,Cleared
+CONT447236,2.6,Low,All parameters normal. Standard clearance applicable.,SD,HAM,SG,2933,EVERGREEN,88585.63,2885.36,2865.95,31.65,2024-09-12,Cleared
+CONT568011,2.6,Low,Minor flags (transit shipment); risk within acceptable range.,FR,LAX,US,2933,MAERSK,11807.75,1954.62,1990.23,28.25,2024-08-14,Cleared
+CONT486354,2.6,Low,All parameters normal. Standard clearance applicable.,GB,LAX,US,3004,ONE,110449.3,1134.83,1118.41,33.8,2024-09-02,Cleared
+CONT720635,2.6,Low,All parameters normal. Standard clearance applicable.,SG,HAM,CA,9013,MSC,25044.52,3772.52,3578.11,29.12,2024-05-27,Cleared
+CONT650901,2.6,Low,All parameters normal. Standard clearance applicable.,PK,HAM,JP,8703,COSCO,96377.35,3478.58,3372.99,30.02,2024-06-13,Pending
+CONT188668,2.6,Low,All parameters normal. Standard clearance applicable.,SG,RTM,GB,8703,ONE,89746.21,7021.99,7133.28,38.05,2024-08-19,Cleared
+CONT401075,2.5,Low,All parameters normal. Standard clearance applicable.,NG,RTM,DE,9013,HAPAG,90917.61,7261.08,7061.72,41.71,2024-01-16,Cleared
+CONT722893,2.5,Low,All parameters normal. Standard clearance applicable.,SO,SHA,SG,3004,HMM,111083.23,7021.53,6947.81,31.99,2024-12-25,Cleared
+CONT842452,2.5,Low,All parameters normal. Standard clearance applicable.,DE,HKG,DE,3004,YML,15038.36,10550.9,10678.79,16.26,2024-06-20,Pending
+CONT429782,2.5,Low,All parameters normal. Standard clearance applicable.,CA,NYC,JP,2710,HMM,55250.65,10318.63,10714.43,42.94,2024-11-28,Cleared
+CONT893070,2.5,Low,All parameters normal. Standard clearance applicable.,SD,DXB,US,7108,MAERSK,181027.57,9404.96,9429.35,40.84,2024-02-13,Cleared
+CONT950185,2.5,Low,All parameters normal. Standard clearance applicable.,CH,DXB,JP,9013,HMM,7340.59,18490.18,18122.92,28.32,2024-04-29,Cleared
+CONT805356,2.5,Low,All parameters normal. Standard clearance applicable.,AU,HKG,DE,2710,MSC,154206.26,11688.55,11675.34,45.38,2024-07-26,Cleared
+CONT910830,2.5,Low,All parameters normal. Standard clearance applicable.,SO,SGP,US,6110,MSC,54408.98,15320.68,15165.19,43.38,2024-08-05,Cleared
+CONT619493,2.5,Low,Minor flags (transit shipment); risk within acceptable range.,US,HAM,CH,8542,HAPAG,105002.9,2470.82,2496.1,19.11,2024-02-22,Cleared
+CONT494030,2.5,Low,All parameters normal. Standard clearance applicable.,NG,HAM,AU,9013,YML,40411.55,7568.22,7353.13,43.97,2024-12-11,Cleared
+CONT307374,2.5,Low,All parameters normal. Standard clearance applicable.,PK,LAX,AU,3004,ONE,22720.92,1578.7,1607.61,41.61,2024-11-08,Cleared
+CONT363031,2.5,Low,All parameters normal. Standard clearance applicable.,SD,LAX,CA,2933,EVERGREEN,187323.91,8422.96,8330.35,22.94,2024-02-28,Pending
+CONT756166,2.4,Low,All parameters normal. Standard clearance applicable.,US,MUM,CA,8517,YML,29265.32,8440.97,7995.64,46.08,2024-11-14,Cleared
+CONT287063,2.4,Low,All parameters normal. Standard clearance applicable.,SO,DXB,CH,8703,HMM,57316.0,15570.13,15316.74,30.0,2024-04-30,Cleared
+CONT962061,2.4,Low,All parameters normal. Standard clearance applicable.,PK,SHA,CH,3004,YML,25081.39,10140.67,10624.9,18.71,2024-06-10,Cleared
+CONT888089,2.4,Low,All parameters normal. Standard clearance applicable.,DE,SHA,SG,8703,MSC,165771.95,13871.32,14548.12,10.44,2024-04-17,Cleared
+CONT760197,2.4,Low,All parameters normal. Standard clearance applicable.,AU,RTM,GB,9013,YML,13107.9,5441.08,5621.26,25.92,2024-08-07,Cleared
+CONT773166,2.4,Low,All parameters normal. Standard clearance applicable.,DE,SHA,DE,8471,MSC,6952.03,17825.63,17969.33,42.83,2024-12-02,Cleared
+CONT386610,2.4,Low,All parameters normal. Standard clearance applicable.,DE,LAX,AU,2710,HAPAG,37035.93,6655.36,6447.19,38.46,2024-02-26,Cleared
+CONT971808,2.3,Low,All parameters normal. Standard clearance applicable.,SO,RTM,JP,8517,CMA CGM,137090.53,14471.26,14484.5,14.34,2024-04-01,Cleared
+CONT242429,2.3,Low,Minor flags (transit shipment); risk within acceptable range.,CA,DXB,SG,6110,MSC,82367.24,2199.47,2151.32,24.86,2024-04-02,Cleared
+CONT910927,2.3,Low,Minor flags (transit shipment); risk within acceptable range.,SO,SGP,CH,8703,COSCO,174637.88,11608.69,11987.38,20.35,2024-02-08,Cleared
+CONT664485,2.3,Low,All parameters normal. Standard clearance applicable.,PK,LAX,CA,8471,HAPAG,122126.96,10265.67,10396.33,36.72,2024-08-01,Cleared
+CONT844149,2.3,Low,All parameters normal. Standard clearance applicable.,CA,HAM,FR,2933,PIL,128464.52,16313.86,16030.5,45.86,2024-08-07,Cleared
+CONT715429,2.3,Low,All parameters normal. Standard clearance applicable.,NG,HKG,GB,6110,ONE,123533.25,11525.43,11606.46,21.75,2024-05-28,Cleared
+CONT199977,2.3,Low,All parameters normal. Standard clearance applicable.,CA,LAX,CH,2933,HAPAG,72319.84,15999.21,16178.86,22.22,2024-04-24,Cleared
+CONT468697,2.3,Low,Minor flags (transit shipment); risk within acceptable range.,NL,HAM,FR,9013,HMM,146858.03,14470.32,14645.85,38.61,2024-04-15,Cleared
+CONT331237,2.3,Low,All parameters normal. Standard clearance applicable.,SD,DEL,FR,7108,EVERGREEN,120483.17,19097.82,18903.83,34.84,2024-05-29,Cleared
+CONT892644,2.3,Low,All parameters normal. Standard clearance applicable.,US,DEL,FR,8703,EVERGREEN,98013.42,15312.95,15751.24,32.26,2024-03-21,Cleared
+CONT111023,2.2,Low,All parameters normal. Standard clearance applicable.,US,MUM,CH,6110,PIL,118941.29,12923.6,13080.46,43.65,2024-12-23,Cleared
+CONT432336,2.2,Low,All parameters normal. Standard clearance applicable.,JP,MUM,JP,8703,YML,65744.9,7653.54,7704.48,38.45,2024-10-28,Cleared
+CONT458105,2.2,Low,All parameters normal. Standard clearance applicable.,NL,SGP,CA,2710,PIL,20802.53,8408.1,8122.48,40.51,2024-01-16,Pending
+CONT734044,2.2,Low,All parameters normal. Standard clearance applicable.,FR,MUM,CH,2710,EVERGREEN,134290.3,11727.22,11207.61,33.88,2024-04-04,Pending
+CONT921860,2.2,Low,All parameters normal. Standard clearance applicable.,NL,RTM,US,6110,HAPAG,94981.87,16057.91,15421.0,36.16,2024-06-12,Cleared
+CONT220627,2.2,Low,All parameters normal. Standard clearance applicable.,SO,SGP,FR,2933,YML,146177.89,19419.39,18738.41,13.33,2024-04-10,Cleared
+CONT174567,2.2,Low,All parameters normal. Standard clearance applicable.,JP,RTM,FR,7108,YML,26642.95,18236.71,18604.67,23.67,2024-07-08,Cleared
+CONT737684,2.2,Low,All parameters normal. Standard clearance applicable.,CH,NYC,AU,8471,MAERSK,61381.66,1845.67,1850.12,23.86,2024-09-26,Cleared
+CONT368854,2.2,Low,All parameters normal. Standard clearance applicable.,NG,MUM,SG,8517,MSC,60991.9,8227.98,8255.94,38.89,2024-02-16,Cleared
+CONT577697,2.1,Low,All parameters normal. Standard clearance applicable.,NL,RTM,CH,8542,MAERSK,182028.51,5588.51,5526.39,26.31,2024-06-26,Cleared
+CONT784103,2.1,Low,Minor flags (transit shipment); risk within acceptable range.,IQ,RTM,JP,3004,ONE,137033.29,10884.38,11085.93,38.25,2024-10-09,Cleared
+CONT164772,2.1,Low,All parameters normal. Standard clearance applicable.,NG,SGP,SG,8517,CMA CGM,78870.21,15338.07,15378.12,24.11,2024-06-05,Cleared
+CONT901151,2.1,Low,All parameters normal. Standard clearance applicable.,CH,RTM,AU,2710,CMA CGM,194374.43,8747.21,8866.22,28.74,2024-02-13,Cleared
+CONT975206,2.0,Low,All parameters normal. Standard clearance applicable.,GB,SGP,FR,2710,YML,96835.26,12460.65,11836.64,25.66,2024-04-15,Cleared
+CONT931588,2.0,Low,All parameters normal. Standard clearance applicable.,NL,DXB,NL,8703,YML,9942.98,13993.53,13851.98,34.36,2024-06-24,Cleared
+CONT873815,2.0,Low,Minor flags (transit shipment); risk within acceptable range.,SD,NYC,US,3004,YML,73571.73,19269.46,18936.56,44.02,2024-11-14,Cleared
+CONT878760,2.0,Low,All parameters normal. Standard clearance applicable.,IQ,RTM,SG,6110,MAERSK,63729.24,3585.07,3555.38,14.95,2024-04-30,Cleared
+CONT499384,2.0,Low,All parameters normal. Standard clearance applicable.,FR,RTM,GB,2933,HAPAG,22394.84,4463.39,4622.68,27.55,2024-03-08,Cleared
+CONT892244,2.0,Low,All parameters normal. Standard clearance applicable.,AU,HAM,NL,9013,YML,176568.36,12052.71,11871.47,32.54,2024-06-26,Pending
+CONT430763,2.0,Low,Minor flags (transit shipment); risk within acceptable range.,AF,LAX,DE,8703,HMM,143796.7,14441.1,15046.3,43.53,2024-03-21,Cleared
+CONT334864,1.9,Low,Minor flags (transit shipment); risk within acceptable range.,SG,HKG,AU,6110,YML,77367.02,2300.72,2403.37,44.51,2024-10-10,Cleared
+CONT933032,1.9,Low,All parameters normal. Standard clearance applicable.,FR,HAM,AU,8471,MSC,191667.7,16782.21,16572.83,40.35,2024-04-08,Cleared
+CONT636114,1.9,Low,Minor flags (transit shipment); risk within acceptable range.,SD,NYC,CH,3004,ONE,86391.37,8512.95,8757.9,17.63,2024-03-07,Pending
+CONT433713,1.9,Low,Minor flags (transit shipment); risk within acceptable range.,SO,SGP,GB,2710,PIL,189682.68,11679.38,11862.46,25.84,2024-12-04,Cleared
+CONT809132,1.9,Low,All parameters normal. Standard clearance applicable.,FR,LAX,GB,8471,MAERSK,47550.47,4327.34,4184.24,42.46,2024-02-14,Cleared
+CONT413612,1.9,Low,Minor flags (transit shipment); risk within acceptable range.,FR,RTM,CH,8703,HMM,125020.74,1349.06,1382.7,37.17,2024-07-09,Cleared
+CONT924273,1.9,Low,Minor flags (transit shipment); risk within acceptable range.,NL,SHA,GB,6110,ONE,87576.83,11411.47,11198.29,29.01,2024-04-05,Cleared
+CONT992743,1.9,Low,All parameters normal. Standard clearance applicable.,SD,HKG,SG,8703,COSCO,27110.48,13612.04,13396.55,35.71,2024-02-01,Cleared
+CONT821001,1.9,Low,All parameters normal. Standard clearance applicable.,SD,RTM,DE,8703,HMM,30879.57,1630.86,1622.1,28.97,2024-10-31,Cleared
+CONT844822,1.9,Low,Minor flags (transit shipment); risk within acceptable range.,IQ,DXB,DE,8703,YML,19913.59,15759.26,15914.98,47.42,2024-01-11,Cleared
+CONT836983,1.8,Low,All parameters normal. Standard clearance applicable.,GB,RTM,FR,8542,YML,197672.79,18445.95,18604.21,43.66,2024-08-13,Cleared
+CONT439119,1.8,Low,All parameters normal. Standard clearance applicable.,JP,DXB,AU,2710,MSC,72848.58,3697.47,3649.9,23.82,2024-05-29,Cleared
+CONT739665,1.8,Low,All parameters normal. Standard clearance applicable.,DE,LAX,DE,2933,HAPAG,50106.27,17851.9,17597.43,36.33,2024-04-04,Cleared
+CONT507124,1.8,Low,All parameters normal. Standard clearance applicable.,CA,LAX,CA,8542,PIL,132680.29,14413.82,14077.9,21.16,2024-05-16,Cleared
+CONT689738,1.8,Low,All parameters normal. Standard clearance applicable.,NL,DXB,CA,7108,PIL,92204.5,11522.24,11229.08,30.43,2024-05-22,Cleared
+CONT771256,1.8,Low,All parameters normal. Standard clearance applicable.,PK,HAM,SG,2933,PIL,162279.42,11296.12,11424.96,32.99,2024-03-29,Cleared
+CONT324793,1.8,Low,All parameters normal. Standard clearance applicable.,DE,MUM,AU,6110,PIL,91325.27,1141.8,1198.48,36.22,2024-12-17,Cleared
+CONT484865,1.8,Low,All parameters normal. Standard clearance applicable.,SO,SHA,CH,8517,HMM,149633.85,16423.29,16694.02,42.78,2024-01-10,Cleared
+CONT959734,1.7,Low,All parameters normal. Standard clearance applicable.,SO,NYC,CA,6110,HAPAG,13747.81,12709.52,12755.32,31.39,2024-05-28,Cleared
+CONT195257,1.7,Low,All parameters normal. Standard clearance applicable.,NG,MUM,US,8471,YML,20943.01,1746.93,1773.9,42.44,2024-10-18,Pending
+CONT151567,1.7,Low,All parameters normal. Standard clearance applicable.,SG,HAM,DE,6110,YML,29033.25,18305.7,18301.83,17.54,2024-04-03,Pending
+CONT661669,1.6,Low,All parameters normal. Standard clearance applicable.,CH,SGP,AU,2710,HAPAG,29495.04,4957.28,4872.3,17.68,2024-05-01,Pending
+CONT329171,1.6,Low,All parameters normal. Standard clearance applicable.,SD,HKG,GB,9013,ONE,25517.81,13631.54,13863.32,33.57,2024-03-20,Cleared
+CONT324021,1.5,Low,All parameters normal. Standard clearance applicable.,SD,LAX,NL,2710,PIL,82163.05,17632.71,17798.3,35.47,2024-03-29,Cleared
+CONT372827,1.5,Low,Minor flags (transit shipment); risk within acceptable range.,IQ,DXB,US,8542,YML,107229.67,7873.6,7776.35,33.51,2024-04-22,Cleared
+CONT649633,1.5,Low,All parameters normal. Standard clearance applicable.,SD,LAX,JP,8703,PIL,45325.55,17067.2,16858.75,44.7,2024-05-31,Cleared
+CONT486721,1.4,Low,All parameters normal. Standard clearance applicable.,GB,DXB,NL,2933,PIL,30646.06,9643.46,9392.96,41.71,2024-05-13,Cleared
+CONT145740,1.4,Low,All parameters normal. Standard clearance applicable.,FR,SGP,DE,6110,COSCO,16252.07,1619.74,1544.63,23.55,2024-04-25,Cleared
+CONT778832,1.3,Low,All parameters normal. Standard clearance applicable.,CH,SHA,SG,9013,MAERSK,165900.78,18676.06,19129.29,25.8,2024-03-19,Cleared
+CONT934569,1.3,Low,Minor flags (transit shipment); risk within acceptable range.,PK,NYC,DE,8471,CMA CGM,195956.34,10861.41,10646.15,34.64,2024-04-01,Cleared
+CONT860084,1.3,Low,All parameters normal. Standard clearance applicable.,DE,HKG,CH,8703,MSC,31183.6,1148.99,1120.2,46.15,2024-02-15,Cleared
+CONT357354,1.2,Low,All parameters normal. Standard clearance applicable.,AF,HKG,DE,2933,ONE,191769.01,15201.44,14884.47,45.48,2024-05-22,Cleared
+CONT889622,1.2,Low,All parameters normal. Standard clearance applicable.,IQ,NYC,AU,7108,PIL,130891.2,19007.62,19311.75,43.25,2024-03-26,Cleared
+CONT925992,1.1,Low,All parameters normal. Standard clearance applicable.,DE,SHA,CH,7108,CMA CGM,75292.53,8542.85,8666.33,33.54,2024-04-15,Cleared
+CONT723094,1.1,Low,All parameters normal. Standard clearance applicable.,JP,SHA,CH,2933,PIL,79670.74,12234.66,12402.72,46.76,2024-09-11,Cleared
+CONT656718,1.1,Low,Minor flags (transit shipment); risk within acceptable range.,CH,MUM,US,8703,HMM,58866.28,6987.79,6979.16,47.19,2024-02-21,Cleared
+CONT573196,1.1,Low,Minor flags (transit shipment); risk within acceptable range.,JP,SHA,US,8703,MSC,160345.75,1259.57,1266.27,18.87,2024-05-08,Cleared
+CONT521655,1.1,Low,All parameters normal. Standard clearance applicable.,CH,HKG,DE,3004,PIL,193781.89,15319.93,15340.82,38.3,2024-06-03,Cleared
+CONT137067,1.0,Low,All parameters normal. Standard clearance applicable.,US,SHA,SG,8542,ONE,168478.82,1820.24,1759.93,32.79,2024-02-22,Cleared
+CONT205686,1.0,Low,Minor flags (transit shipment); risk within acceptable range.,SO,RTM,FR,2710,MAERSK,121371.4,14122.92,14249.93,26.07,2024-03-28,Pending
+CONT346301,1.0,Low,All parameters normal. Standard clearance applicable.,FR,RTM,JP,8542,MSC,195600.45,3579.17,3599.51,46.43,2024-04-23,Cleared
+CONT880298,1.0,Low,All parameters normal. Standard clearance applicable.,CA,SHA,SG,9013,YML,21145.74,15022.64,15499.06,30.54,2024-06-12,Cleared
+CONT244375,0.8,Low,All parameters normal. Standard clearance applicable.,SO,SGP,JP,8471,MAERSK,58644.28,14496.68,14637.73,32.12,2024-03-04,Cleared
+CONT693453,0.8,Low,All parameters normal. Standard clearance applicable.,DE,RTM,DE,3004,ONE,26971.34,8084.65,8015.47,29.38,2024-03-07,Cleared
+CONT408444,0.8,Low,Minor flags (transit shipment); risk within acceptable range.,NG,SGP,SG,8471,HMM,90543.52,3040.87,3081.22,27.79,2024-03-13,Pending
+CONT698357,0.7,Low,All parameters normal. Standard clearance applicable.,PK,SHA,CH,8517,YML,110302.32,2284.64,2242.02,42.72,2024-11-21,Cleared
+CONT258763,0.6,Low,All parameters normal. Standard clearance applicable.,SO,HAM,CA,7108,PIL,157363.02,6890.0,6840.2,46.25,2024-05-16,Cleared
+CONT570529,0.5,Low,All parameters normal. Standard clearance applicable.,AF,RTM,FR,9013,CMA CGM,124451.83,1192.49,1217.83,42.44,2024-04-02,Cleared
+CONT409799,0.0,Low,All parameters normal. Standard clearance applicable.,SD,SHA,DE,8471,YML,113041.38,9498.19,9573.48,44.96,2024-02-07,Cleared
