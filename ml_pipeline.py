@@ -94,7 +94,7 @@ def engineer_features(df, imp_freq=None, exp_freq=None, hs_freq=None):
 
     # Weight & value features
     df["weight_diff"] = mw - dw # Difference between actual and declared weight
-    df["weight_diff_abs"] = df["weight_diff"].abs() # ----------------------------------------------------------------------
+    df["weight_diff_abs"] = df["weight_diff"].abs() # Creates a new column with the absolute difference between measured and declared weight.
     df["weight_diff_pct"] = df["weight_diff"] / dw # % difference → very important fraud signal
     df["weight_ratio"] = mw / dw # Ratio between weights
     df["value_per_kg"] = df[COL["value"]] / dw # Detects over/under valuation
